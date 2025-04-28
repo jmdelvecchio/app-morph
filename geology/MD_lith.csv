@@ -1,0 +1,279 @@
+unit_link,lith_rank,lith1,lith2,lith3,lith4,lith5,low_lith,lith_form,lith_com
+MDMp;1,Incidental,Sedimentary,Coal,,,,Coal,, 
+MDSm;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDCAwb;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDjg;4,Major,Metamorphic,Amphibolite,,,,Amphibolite,,quartz amphibolite 
+MDPd;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDSwb;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDQu;5,Major,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,, 
+MDPAap;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone ,,
+MDOs;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone ,,
+MDPAap;1,Major,Sedimentary,Clastic,Sandstone,,,Sandstone ,,
+MDTc;5,Major,Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDPd;1,Incidental,Sedimentary,Coal,,,,Coal,, 
+MDif;3,Incidental,Metamorphic,Metaigneous,Greenstone,,,Greenstone,, 
+MDMp;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"interbedded gray and reddish-brown shale, mudstone, and siltstone "
+MDbgb;7,Major,Igneous,Plutonic,Gabbroic,Gabbro,,Gabbro,, 
+MDbgb;7,Minor,Igneous,Plutonic,Gabbroic,Gabbro,Norite,Norite,, 
+MDbgb;7,Minor,Igneous,Plutonic,Ultramafic,Pyroxenite,,Pyroxenite,, 
+MDCAa;2,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDCAa;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDCAe;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDCAe;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDCAe;1,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+MDCAf;2,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDCAf;2,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDCAt;2,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+MDCAt;2,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDCAt;2,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDCAwb;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+MDCAwb;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDCAwb;1,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+MDCAwb;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDcc;4,Major,Metamorphic,Metasedimentary,Metaclastic,Metaconglomerate,,Metaconglomerate,,meta-conglomerate 
+MDcc;4,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDcm;4,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,, 
+MDcm;4,Minor,Metamorphic,Schist,Calc-silicate-schist,,,Calc-silicate-schist,,calc-schist 
+MDcm;4,Incidental,Metamorphic,Gneiss,Calc-silicate-gneiss,,,Calc-silicate-gneiss,,calc-gneiss 
+MDDch;1,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke,, 
+MDDch;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDDch;1,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+MDDch;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,,locally conglomeratic 
+MDDch;1,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDDh;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,red and some green shale 
+MDDh;1,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,,red mudstone 
+MDDh;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,,"red to brown, cross-bedded "
+MDDh;1,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"red to brown, cross-bedded "
+MDmgb;7,Major,Metamorphic,Metaigneous,Metaintrusive,Metagabbro,,Metagabbro,, 
+MDmgb;7,Major,Metamorphic,Amphibolite,,,,Amphibolite,,epidote amphibolite 
+MDMmc;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Red and green shale 
+MDMmc;1,Major,Sedimentary,Clastic,Mudstone,,,Mudstone,,"reddish-purple mudstone, "
+MDDhn;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"Hamilton Group including Mahantango Formation - Dark gray, laminated shale, siltstone, and very fine-grained sandstone; thickness 600 feet in west, increases to 1,200 feet in east, and Marcellus Shale - Gray-black, thinly laminated, pyritic, carbonaceous shale; thickness 250 feet in east, increases to 500 feet in west. Needmore Shale - Olive-gray to black shale and dark, thin-bedded, fossiliferous, argillaceous limestone; thickness ranges from 70 to 145 feet. "
+MDMp;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,,"interbedded gray and reddish-brown shale, mudstone, and siltstone "
+MDms;3,Major,Metamorphic,Schist,Mica-schist,,,Mica-schist,,"Bluish-gray to silvery-green, fine-grained, muscovite-chlorite-albite-quartz schist; intensely cleaved and closely folded "
+MDms;3,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDOCAc;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDOCAc;1,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,, 
+MDOCAc;1,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+MDOCAg;2,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDOCAg;2,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+MDOcs;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone ,,
+MDOcs;1,Incidental,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Calcarenite ,,
+MDOj;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone ,,
+MDOj;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale ,,
+MDOj;1,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke ,,
+MDOj;1,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate ,,
+MDOj;1,Major,Sedimentary,Clastic,Sandstone,,,Sandstone ,,
+MDOm;1,Major,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke ,,
+MDOm;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone ,,
+MDOm;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale ,,
+MDOps;1,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone ,,
+MDOrr;1,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone ,,
+MDOrr;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone ,,
+MDOrr;1,Minor,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Calcarenite ,,
+MDOs;1,Minor,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Calcarenite ,,
+MDOs;1,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone ,,
+MDPAap;1,Minor,Sedimentary,Clastic,Mudstone,Claystone,,Claystone ,,
+MDPAap;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale ,,
+MDPAap;1,Incidental,Sedimentary,Coal,,,,Coal ,,
+MDPAc;1,Major,Sedimentary,Clastic,Mudstone,Claystone,,Claystone ,,
+MDPAc;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale ,,
+MDPAc;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone ,,
+MDPAc;1,Incidental,Sedimentary,Coal,,,,Coal ,,
+MDPAc;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone ,,
+MDPAm;1,Major,Sedimentary,Clastic,Mudstone,Claystone,,Claystone ,,
+MDPAm;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone ,,
+MDPAm;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale ,,
+MDPAm;1,Incidental,Sedimentary,Clastic,Sandstone,,,Sandstone ,,
+MDPAm;1,Incidental,Sedimentary,Coal,,,,Coal ,,
+MDpbs;4,Major,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,, 
+MDpbs;4,Incidental,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDpCAbg;4,Major,Metamorphic,Gneiss,,,,Gneiss,,includes granitic gneiss and paragneiss 
+MDpCAbg;4,Incidental,Metamorphic,Amphibolite,,,,Amphibolite,, 
+MDpCAbg;4,Incidental,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,Layered paragneiss in Baltimore City southeast of Relay Quartz Diorite. 
+MDpCAc;2,Major,Metamorphic,Metaigneous,Metavolcanic,Metabasalt,,Metabasalt,,"Thick-bedded metabasalt with amygdaloidal layers and secondary veins of quartz, calcite, and epidote "
+MDpCAc;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,,green tuffaceous phyllite 
+MDpCAc;2,Minor,Metamorphic,Metaigneous,Metavolcanic,Metaandesite,,Metaandesite,,blue amygdaloidal metaandesite 
+MDpCAg;2,Major,Metamorphic,Gneiss,,,,Gneiss,,granitic gneiss 
+MDpCAg;2,Incidental,Metamorphic,Metaigneous,Metaintrusive,Metadiabase,,Metadiabase,, 
+MDpCAmv;2,Major,Metamorphic,Metaigneous,Metavolcanic,Metarhyolite,,Metarhyolite,,"Dense, blue, cryptocrystalline, with white feldspar phenocrysts and glassy quartz; red porphyritic metarhyolite at contact with Catoctin Metabasalt "
+MDpCAmv;2,Minor,Metamorphic,Schist,,,,Schist,,white tuffaceous sericitic schist 
+MDpCAmv;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,,banded green slate 
+MDpCAsr;2,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDpCAsr;2,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDpCAsr;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,, 
+MDpCAsr;2,Minor,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,, 
+MDPd;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+MDPd;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,,includes conglomeratic sandstone at base 
+MDPd;1,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDPze;6,Minor,Igneous,Plutonic,Granitic,Granodiorite,,Granodiorite,, 
+MDPze;6,Major,Igneous,Plutonic,Syenitic,Quartz-monzonite,,Quartz-monzonite,, 
+MDPzg;6,Major,Igneous,Plutonic,Syenitic,Quartz-monzonite,,Quartz-monzonite,, 
+MDPzgd;6,Major,Igneous,Plutonic,Gabbroic,Gabbro,,Gabbro,, 
+MDPzgd;6,Major,Igneous,Plutonic,Dioritic,Quartz-diorite,,Quartz-diorite,, 
+MDPzgg;6,Major,Igneous,Plutonic,Syenitic,Quartz-monzonite,,Quartz-monzonite,, 
+MDPzk;6,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Biotite-gneiss,,"compositionally originally considered quartz diorite to granodiorite, now revised to tonalite. All igneous textures have been destroyed "
+MDPzmg;6,Major,Metamorphic,Gneiss,,,,Gneiss,,granitic gneiss 
+MDPzn;6,Major,Igneous,Plutonic,Dioritic,Quartz-diorite,,Quartz-diorite,, 
+MDPzp;6,Major,Igneous,Plutonic,Granitic,Leucocratic-granitic,Pegmatite,Pegmatite,Dike or sill, 
+MDPzpd;6,Major,Metamorphic,Gneiss,,,,Gneiss,,granitic gneiss 
+MDPzpd;6,Major,Igneous,Plutonic,Dioritic,Quartz-diorite,,Quartz-diorite,, 
+MDPzpd;6,Major,Igneous,Plutonic,Granitic,Granodiorite,,Granodiorite,, 
+MDPzr;7,Major,Igneous,Plutonic,Dioritic,Quartz-diorite,,Quartz-diorite,, 
+MDPzr;7,Major,Igneous,Plutonic,Granitic,Alkali-feldspar-granite,,Alkali-feldspar-granite,, 
+MDPzw;6,Major,Igneous,Plutonic,Syenitic,Quartz-monzonite,,Quartz-monzonite,, 
+MDQdu;5,"Indeterminate, major",Unconsolidated,Coarse-detrital,Sand,,,Sand,,includes dune and beach sand 
+MDQdu;5,"Indeterminate, major",Unconsolidated,Coarse-detrital,Gravel,,,Gravel,, 
+MDQdu;5,"Indeterminate, major",Unconsolidated,Fine-detrital,Silt,,,Silt,, 
+MDQdu;5,"Indeterminate, major",Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDQl;5,"Indeterminate, major",Unconsolidated,Coarse-detrital,Gravel,,,Gravel,, 
+MDQl;5,"Indeterminate, major",Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDQl;5,"Indeterminate, major",Unconsolidated,Fine-detrital,Silt,,,Silt,, 
+MDQl;5,"Indeterminate, major",Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDQTu;5,Major,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,, 
+MDQTu;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDQTu;5,Minor,Unconsolidated,Fine-detrital,Silt,,,Silt,, 
+MDQTu;5,Minor,Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDQu;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDQu;5,Minor,Unconsolidated,Fine-detrital,Silt,,,Silt,, 
+MDQu;5,Minor,Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDSc;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDSc;1,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDSc;1,Incidental,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDSc;1,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDscm;3,Major,Metamorphic,Metaigneous,Metavolcanic,Metabasalt,,Metabasalt,,"Grayish-green, massive to schistose, amygdaloidal metabasalt "
+MDsf;4,Major,Metamorphic,Schist,Mica-schist,,,Mica-schist,, 
+MDsf;4,Minor,Metamorphic,Gneiss,Muscovite-gneiss,,,Muscovite-gneiss,, 
+MDsf;4,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDSm;1,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDSm;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDsq;3,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDsq;3,Incidental,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,, 
+MDsq;3,Incidental,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDsrl;3,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDsrl;3,Incidental,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,, 
+MDSt;1,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke,, 
+MDSt;1,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,orthoquartzite 
+MDStl;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDStl;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDStl;1,Incidental,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDSwb;1,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,, 
+MDSwb;1,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDSwb;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDTa;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,,"Dark green to gray-green, argillaceous, highly glauconitic, well-sorted fine- to medium-grained sand; locally indurated shell beds; thickness 0 to 100 feet. "
+MDTc;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDTc;5,Incidental,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDTch;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDTch;5,Major,Unconsolidated,Fine-detrital,Silt,,,Silt,, 
+MDTch;5,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDTch;5,Incidental,Sedimentary,Carbonate,Limestone,Coquina,,Coquina,,prominent shell beds 
+MDTn;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDTn;5,Minor,Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDTRd;2,Major,Igneous,Volcanic,Mafic-volcanic,Basalt,,Basalt,Dike or sill, 
+MDTRg;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDTRg;2,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDTRg;2,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+MDTRlc;2,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,basal limiestone conglomerate with red and gray calcareous matrix 
+MDTRno;2,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDTRno;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDTRno;2,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+MDTRno;2,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,basal conglomerate is limestone conglomerate to south of Maryland Rte. 73 and quartz conglomerate to north of Maryland Rte. 73 
+MDTRqc;2,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,"basal conglomerate member: From vicinity of Maryland Rte. 73 northward, quartz conglomerate with red sandy matrix;  "
+MDTs;5,Major,Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDTs;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDuf;3,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDuf;3,Major,Metamorphic,Metasedimentary,Metaclastic,Metasiltstone,,Metasiltstone,,meta-argillite 
+MDuf;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDuf;3,Minor,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,, 
+MDug;7,"Indeterminate, major",Metamorphic,Metaigneous,Metaintrusive,Metagabbro,,Metagabbro,, 
+MDug;7,"Indeterminate, major",Metamorphic,Metaigneous,Metaintrusive,Metaultramafic,Metapyroxenite,Metapyroxenite,, 
+MDug;7,"Indeterminate, major",Metamorphic,Metaigneous,Serpentinite,,,Serpentinite,, 
+MDug;7,"Indeterminate, major",Metamorphic,Schist,,,,Schist,,"actinolite-, chlorite-, and epidote-bearing schists "
+MDum;7,Major,Metamorphic,Metaigneous,Serpentinite,,,Serpentinite,, 
+MDum;7,Incidental,Igneous,Plutonic,Ultramafic,Peridotite,Dunite,Dunite,, 
+MDum;7,Incidental,Igneous,Plutonic,Ultramafic,Peridotite,,Peridotite,, 
+MDwf;2,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDwf;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDwf;2,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,quartz conglomerate 
+MDwlps;4,Major,Metamorphic,Schist,Mica-schist,Biotite-schist,,Biotite-schist,,"Medium- to coarse-grained biotite-oligoclase-muscovite-quartz schist with garnet, staurolite, and kyanite; fine- to medium-grained semipelitic schist "
+MDwm;3,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,, 
+MDwmc;4,Major,Metamorphic,Metasedimentary,Metaclastic,Metaconglomerate,,Metaconglomerate,,meta-conglomerate 
+MDwmc;4,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDwmg;4,Major,Metamorphic,Metasedimentary,Metaclastic,Metasandstone,Metagraywacke,Metagraywacke,,meta-graywacke 
+MDwmg;4,Major,Metamorphic,Schist,Mica-schist,Muscovite-schist,,Muscovite-schist,, 
+MDwu;3,Major,Metamorphic,Schist,Mica-schist,Muscovite-schist,,Muscovite-schist,, 
+MDwu;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDwu;3,Incidental,Metamorphic,Schist,,,,Schist,,chloritoid schist 
+MDwups;4,Major,Metamorphic,Schist,Quartz-feldspar-schist,,,Quartz-feldspar-schist,, 
+MDwups;4,Incidental,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDif-ms;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Metasandstone,Metagraywacke,Metagraywacke,, 
+MDum;7,Incidental,Igneous,Plutonic,Ultramafic,Pyroxenite,,Pyroxenite,, 
+MDum;7,Incidental,Igneous,Plutonic,Gabbroic,Gabbro,,Gabbro,, 
+MDvc;4,"Indeterminate, major",Metamorphic,Metaigneous,Greenstone,,,Greenstone,, 
+MDvc;4,"Indeterminate, major",Metamorphic,Schist,,,,Schist,Greenschist, 
+MDvc;4,"Indeterminate, major",Metamorphic,Amphibolite,,,,Amphibolite,, 
+MDwater;0,Major,Water,,,,,Water,, 
+MDwbg;4,Major,Metamorphic,Gneiss,Muscovite-gneiss,,,Muscovite-gneiss,, 
+MDwbg;4,Minor,Metamorphic,Metasedimentary,Metaclastic,Pelitic-schist,,Pelitic-schist,, 
+MDwlps;4,Minor,Metamorphic,Granulite,,,,Granulite,, 
+MDDhn;1,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,,"Hamilton Group including Mahantango Formation - Dark gray, laminated shale, siltstone, and very fine-grained sandstone; thickness 600 feet in west, increases to 1,200 feet in east, and Marcellus Shale - Gray-black, thinly laminated, pyritic, carbonaceous shale; thickness 250 feet in east, increases to 500 feet in west. Also includes Tioga Metabentonite Bed - Brownish-gray, thinly laminated shale containing sand-size mica flakes; thickness less than one foot; and Needmore Shale - Olive-gray to black shale and dark, thin-bedded, fossiliferous, argillaceous limestone; thickness ranges from 70 to 145 feet. "
+MDDhn;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+MDDhn;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDDhn;1,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDDo;1,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,orthoquartzite 
+MDDo;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDDo;1,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDDo;1,Minor,Sedimentary,Chemical,Chert,,,Chert,,black chert 
+MDDo;1,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,, 
+MDDShk;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDDShk;1,Minor,Sedimentary,Chemical,Chert,,,Chert,, 
+MDDShk;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDDShk;1,Incidental,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,, 
+MDDShk;1,Incidental,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDgm;7,Major,Igneous,Plutonic,Granitic,Tonalite,,Tonalite,, 
+MDgm;7,Minor,Igneous,Plutonic,Dioritic,Quartz-diorite,,Quartz-diorite,, 
+MDgm;7,Minor,Igneous,Plutonic,Gabbroic,Quartz-gabbro,,Quartz-gabbro,,quartz gabbro 
+MDgm;7,Incidental,Metamorphic,Amphibolite,,,,Amphibolite,, 
+MDgm;7,Incidental,Metamorphic,Metaigneous,Metaintrusive,Metaultramafic,Metapyroxenite,Metapyroxenite,, 
+MDgm;7,Incidental,Metamorphic,Metaigneous,Serpentinite,,,Serpentinite,, 
+MDgm;7,Incidental,Metamorphic,Schist,,,,Schist,,talc schist 
+MDhf;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDhf;2,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDhf;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,, 
+MDif;3,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDif;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,, 
+MDif;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Metasiltstone,,Metasiltstone,, 
+MDif;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Metasandstone,Metagraywacke,Metagraywacke,, 
+MDif;3,Incidental,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDif-ms;3,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDif-ms;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,, 
+MDif-ms;3,Minor,Metamorphic,Schist,Mica-schist,Muscovite-schist,,Muscovite-schist,,muscovite-chlorite-albite-quartz schist 
+MDif-ms;3,Incidental,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+MDif-ms;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Metasiltstone,,Metasiltstone,,includes meta-argillite 
+MDjg;4,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Biotite-gneiss,,includes granitic gneiss and paragneiss 
+MDjg;4,"Indeterminate, major",Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,, 
+MDKm;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,,"Loose, white, cross-bedded, ""sugary"", lignitic sands  "
+MDKm;5,Minor,Unconsolidated,Fine-detrital,Clay,,,Clay,,"dark gray, laminated silty clays "
+MDKm;5,Incidental,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,,"white to orange-brown, iron-stained, subrounded quartzose gravels in western Anne Arundel County "
+MDKma;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,,"Dark gray micaceous, glauconitic, argillaceous, fine-grained sand and silt; "
+MDKma;5,Major,Unconsolidated,Fine-detrital,Silt,,,Silt,,"Dark gray micaceous, glauconitic, argillaceous, fine-grained sand and silt; "
+MDKmo;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,,"Dark gray to reddish-brown, micaceous, glauconitic, argillaceous, fine- to coarse-grained sand; "
+MDKmo;5,Minor,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,,basal gravel in Prince Georges County 
+MDKp;5,Minor,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,, 
+MDKp;5,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,, 
+MDKp;5,Minor,Unconsolidated,Fine-detrital,Silt,,,Silt,, 
+MDKp;5,Minor,Unconsolidated,Fine-detrital,Clay,,,Clay,, 
+MDlf;2,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+MDlmr;3,Major,Metamorphic,Metaigneous,Metavolcanic,Metarhyolite,,Metarhyolite,,"Purple, bluish-black, and red, dense, fine-grained metarhyolite with feldspar phenocrysts "
+MDlmr;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,,"blue, purple, and green phyllitic slates "
+MDlmr;3,Major,Metamorphic,Metaigneous,Metavolcanic,Metaandesite,,Metaandesite,,blue and purple amygdaloidal metaandesite 
+MDMg;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDMg;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+MDMg;1,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+MDMg;1,Minor,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Calcarenite,, 
+MDMmc;1,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"red, green, brown, and gray thin-bedded and cross-bedded sandstones "
+MDMp;1,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"Gray, white, tan, and brown, thin- to thick-bedded, cross-bedded sandstone "
+MDMp;1,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,, 
+MDMp;1,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,,"interbedded gray and reddish-brown shale, mudstone, and siltstone "
+MDOCAc;1,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+MDOCAc;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 

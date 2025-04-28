@@ -1,0 +1,173 @@
+unit_link,lith_rank,lith1,lith2,lith3,lith4,lith5,low_lith,lith_form,lith_com
+WVCAa;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVCApCAc;0,Minor,Metamorphic,Schist,,,,Schist,, 
+WVPAa;0,Minor,Sedimentary,Coal,,,,Coal,, 
+WVDhs;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,fine micaceous sandstones 
+WVMg;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,marine limestone 
+WVObrr;0,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,containing gray chert and zones of Cryptozoa and Lecanospira 
+WVObrr;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+WVPAk;0,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVCAwy;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVDb;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Lense, 
+WVCApCAc;0,Incidental,Metamorphic,Amphibolite,,,,Amphibolite,, 
+WVMg;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,marine and non-marine red and gray shale 
+WVPAm;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVPAa;0,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVPAk;0,Incidental,Sedimentary,Coal,,,,Coal,, 
+WVCApCAc;0,Incidental,Metamorphic,Gneiss,,,,Gneiss,, 
+WVPAc;0,Minor,Sedimentary,Coal,,,,Coal,, 
+WVCAwy;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVCAwy;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+WVDhs;0,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,, 
+WVCAh;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,,greenish-gray phyllite 
+WVDb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"predominantly olive-gray to dark, thickly laminated marine shale "
+WVMmcc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,red shale and mudrock 
+WVDhs;0,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVDb;0,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVDmt;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,thickly laminated marine shale 
+WVCAa;0,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,"gray to white quartzite; thick-bedded, and resistant; contains Scolithus "
+WVCAa;0,Incidental,Metamorphic,Schist,,,,Schist,,quartz-schist 
+WVCAc;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"predominantly algal and mechanically deposited limestone, with interbeds of aphanitic limestone and dolomite "
+WVCAc;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"predominantly algal and mechanically deposited limestone, with interbeds of aphanitic limestone and dolomite; contains siliceous and dolomitic laminations. "
+WVCAc;0,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,Bed,Big Sandy Station member near base (dolomite-orthoquartzite) 
+WVCAe;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,thin-bedded blue-gray argillaceous limestone with some siliceous limestone 
+WVCAe;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,platy shale 
+WVCAe;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+WVCAh;0,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,with interbeds of fine-grained quartzite. 
+WVCApCAc;0,Major,Metamorphic,Metaigneous,Greenstone,,,Greenstone,,greenstone 
+WVCApCAc;0,Incidental,Sedimentary,Clastic,Sandstone,Arkose,,Arkose,,Includes minor quantities of arkose and thin clastics 
+WVPd;0,Minor,Sedimentary,Coal,,,,Coal,, 
+WVCAt;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"thick-bedded, blue-gray, aphanitic, saccharoidal, and splintery dolomite, weathering coffee-brown; Contains commercial beds of white, pure, low-silica dolomite. "
+WVCAt;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,some siliceous limestone and black chert. 
+WVCAt;0,Minor,Sedimentary,Chemical,Chert,,,Chert,,some siliceous limestone and black chert. 
+WVCAw;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,tough quartzitic sandstones 
+WVCAw;0,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,, 
+WVCAw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVCAwy;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVDbh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"Brallier Formation : predominantly olive-gray to dark, thickly laminated marine shale; Harrell Shale: dark gray to black thinly laminated to fissile shale. Calcareous shale and limestone lenses near the base (Tully). "
+WVDbh;0,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,,Brallier Formation : with considerable siltstone and thin sandstone lenses; mainly nonfossiliferous. 
+WVDbh;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Lense,Brallier Formation : with considerable siltstone and thin sandstone lenses; mainly nonfossiliferous. 
+WVDbh;0,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Lense,Harrell Shale: Calcareous shale and limestone lenses near the base (Tully). 
+WVDch;0,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+WVDch;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+WVDch;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+WVDch;0,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+WVDh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,dark gray to black thinly laminated to fissile shale. Calcareous shale near the base (Tully). 
+WVDh;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Lense,limestone lenses near the base (Tully). 
+WVDhl;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,mostly cherty limestone 
+WVDhl;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVDhl;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVDhs;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,non-marine shales 
+WVDm;0,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,,predominantly gray-black to black thinly laminated non-calcareous pyritic shale 
+WVDm;0,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Contains one or more thin-bedded limestones, including the Purcell Member of Pennsylvania. "
+WVDm;0,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Shale,,predominantly gray-black to black thinly laminated non-calcareous pyritic shale 
+WVDmb;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVDmb;0,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,, 
+WVDmn;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"Marcellus Formation (part of Millboro Shale): predominantly gray-black to black thinly laminated non-calcareous pyritic shale. Needmore Shale (part of Onesquethaw (""Onondaga"") Group): predominantly dark grey or green, calcitic, mostly non-fissile shale "
+WVDmn;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Marcellus Formation (part of Millboro Shale): contains one or more thin-bedded limestones, including the Purcell Member of Pennsylvania. "
+WVDmn;0,Incidental,Sedimentary,Clastic,Mudstone,Claystone,Bentonite,Bentonite,,"Needmore Shale (part of Onesquethaw (""Onondaga"") Group): Tioga Bentonite near the top. "
+WVDmn;0,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,,"Marcellus Formation (part of Millboro Shale): predominantly gray-black to black thinly laminated non-calcareous pyritic shale. Needmore Shale (part of Onesquethaw (""Onondaga"") Group): predominantly dark grey or green, calcitic, mostly non-fissile shale "
+WVDmt;0,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVDmt;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,very fine sandstone 
+WVDmt;0,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Reef,"and some limestone, with an occasional coral reef or biostrome. "
+WVDmu;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVOtbr;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"Trenton Group: dark, crystalline, nodular, and argillaceous limestones. Black River Group: predominantly gray aphanitic limestones, with many bioclastic streaks; siliceous in the lower part. "
+WVDo;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"Oriskany Sandstone: White to brown coarse- to fine-grained, partly calcareous sandstone, locally pebbly or conglomeratic, and ridge-forming. May be white, nearly pure silica, and a source of glass sand, as at Berkeley Springs, Morgan County. Huntersville Chert: contains the ""glauconitic"" Bobs Ridge Sandstone Member "
+WVDo;0,Major,Sedimentary,Chemical,Chert,,,Chert,,"Huntersville Chert (part of Onesquethaw (""Onondaga"") Group): ranges from a nearly pure slightly calcitic or dolomitic chert to an inter-tonguing of such chert and the Needmore Shale. "
+WVDo;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"Huntersville Chert (part of Onesquethaw (""Onondaga"") Group): grades westward in the subsurface to a limestone, commonly considered as ""Onondaga"". "
+WVDohl;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Calcareous,"Oriskany Sandstone: White to brown coarse- to fine-grained, partly calcareous sandstone, locally pebbly or conglomeratic, and ridge-forming. May be white, nearly pure silica, and a source of glass sand, as at Berkeley Springs, Morgan County. Helderburg Group: some sandstone  "
+WVDohl;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,Helderburg Group: mostly cherty limestone 
+WVDohl;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Helderburg Group: some sandstone and shale 
+WVMbf;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Lense, 
+WVMbf;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVMbf;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVMbp;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"the Bluestone Formation is mostly red, green, and medium-gray shale and sandstone; Princeton Sandstone is underneath. "
+WVMbp;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"Bluestone Formation is mostly red, green, and medium-gray shale and sandstone "
+WVMg;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+WVMh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVMh;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVMh;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+WVMmc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVMmc;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVMmc;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVMmcc;0,Incidental,Sedimentary,Chemical,Evaporite,Gypsum,,Gypsum,,contains rock salt and gypsum is southwestern Virginia. 
+WVMmcc;0,Incidental,Sedimentary,Chemical,Evaporite,Salt,,Salt,,contains rock salt and gypsum is southwestern Virginia. 
+WVMmcc;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVMmcc;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVMmcc;0,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,,red shale and mudrock 
+WVMmp;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Maccrady Formation: red shale and mudrock; Pocono Group: some shale 
+WVMmp;0,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,,Maccrady Formation: red shale and mudrock 
+WVMmp;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,Maccrady Formation: red and green sandstone; Pocono Group: predominantly hard gray massive sandstones 
+WVMmp;0,Incidental,Sedimentary,Chemical,Evaporite,Salt,,Salt,,Maccrady Formation: contains rock salt and gypsum is southwestern Virginia. 
+WVMmp;0,Incidental,Sedimentary,Chemical,Evaporite,Gypsum,,Gypsum,,Maccrady Formation: contains rock salt and gypsum is southwestern Virginia. 
+WVMmp;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVMp;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVMp;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVOb;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+WVOb;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+WVOb;0,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,Various units produce much chert on outcrop 
+WVObps;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+WVObps;0,Incidental,Sedimentary,Chemical,Chert,,,Chert,,containing nodular chert. 
+WVObr;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"predominantly gray aphanitic limestones, with many bioclastic streaks; siliceous in the lower part. "
+WVObrr;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+WVObs;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"gray, thin-bedded to massive, fossiliferous limestone, largely mechanically deposited "
+WVObs;0,Minor,Sedimentary,Chemical,Chert,,,Chert,,with small black chert nodules 
+WVObs;0,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,"beds of ""edgewise"" conglomerate "
+WVOjo;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"the Juniata is a thin-bedded, blocky, red sandstone and shale. In places it is underlain by the thick-bedded, gray Oswego Sandstone. "
+WVOjo;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"the Juniata is a thin-bedded, blocky, red sandstone and shale.  "
+WVOm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"predominantly gray to dark shale, yellowish in the upper portion; The upper portion constitutes the Reedsville Shale. "
+WVOm;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,Contains scattered thin limestone and sandstone interbeds 
+WVOm;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,Contains scattered thin limestone and sandstone interbeds 
+WVOmc;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Calcareous,"Ordovician, middle calcareous units "
+WVOsp;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"Predominantly medium-gray aphanitic limestone, containing very low-silica, cream-colored member of considerable economic importance. "
+WVOsp;0,Incidental,Sedimentary,Chemical,Chert,,,Chert,,Chert nodules and dolomite occur in the Row Park. 
+WVOsp;0,Incidental,Sedimentary,Carbonate,Dolostone,,,Dolostone,,Chert nodules and dolomite occur in the Row Park. 
+WVOt;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"dark, crystalline, nodular, and argillaceous limestones "
+WVOt;0,Incidental,Sedimentary,Clastic,Mudstone,Claystone,Bentonite,Bentonite,,some metabentonite streaks 
+WVOtbr;0,Incidental,Sedimentary,Clastic,Mudstone,Claystone,Bentonite,Bentonite,,Trenton Group: with some metabentonite streaks 
+WVPAa;0,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVPAa;0,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVPAa;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVPAc;0,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVPAc;0,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVPAc;0,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVPAc;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVPAk;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,sandstone (approx 50%) 
+WVPAk;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVPAm;0,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVPAm;0,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVPAm;0,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVPAm;0,Minor,Sedimentary,Coal,,,,Coal,, 
+WVPAnr;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVPAnr;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVPAnr;0,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVPAnr;0,Minor,Sedimentary,Coal,,,,Coal,, 
+WVPAp;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVPAp;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+WVPAp;0,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVPAp;0,Minor,Sedimentary,Coal,,,,Coal,, 
+WVPApv;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"Predominantly sandstones, some of which are conglomeratic "
+WVPApv;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,with thin shales and coals 
+WVPApv;0,Minor,Sedimentary,Coal,,,,Coal,,with thin shales and coals 
+WVPd;0,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+WVPd;0,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+WVPd;0,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,,red and gray shale 
+WVPd;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+WVQal;0,"Indeterminate, major",Unconsolidated,Coarse-detrital,Sand,,,Sand,Alluvial, 
+WVQal;0,"Indeterminate, major",Unconsolidated,Coarse-detrital,Gravel,,,Gravel,Alluvial, 
+WVQal;0,"Indeterminate, major",Unconsolidated,Fine-detrital,Silt,,,Silt,Alluvial, 
+WVQal;0,"Indeterminate, major",Unconsolidated,Fine-detrital,Clay,,,Clay,Alluvial, 
+WVSct;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,McKenzie Formation and Clinton Group: the dark Rochester Shale and the Rose Hill predominantly red shale 
+WVSct;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Lense,McKenzie Formation and Clinton Group: with thin limestone lenses 
+WVSct;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"McKenzie Formation and Clinton Group: the white Keefer Sandstone; and the Rose Hill predominantly red shale, with thin sandstone interbeds, some of which are called ""iron sandstones"" from their reddish-brown color and hematite content. Tuscarora Sandstone: medium- to thick-bedded, white to gray or pinkish sandstone, fine to coarse, quartzitic, ridge-forming. Equivalent to the Clinch Sandstone of Tennessee. "
+WVSmc;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"McKenzie Formation and Clinton Group: the white Keefer Sandstone; and the Rose Hill predominantly red shale, with thin sandstone interbeds, some of which are called ""iron sandstones"" from their reddish-brown color and hematite content.  "
+WVSmc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,the dark Rochester Shale and the Rose Hill predominantly red shale 
+WVSmc;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Lense,with thin limestone lenses 
+WVSt;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"medium- to thick-bedded, white to gray or pinkish sandstone, fine to coarse, quartzitic, ridge-forming. Equivalent to the Clinch Sandstone of Tennessee. "
+WVStw;0,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,Bed,includes the thin-bedded platy argillaceous limestones of the Tonoloway; the fossiliferous limestones of the Wills Creek 
+WVStw;0,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,,the thin-bedded shale of the Wills Creek 
+WVStw;0,"Indeterminate, major",Sedimentary,Clastic,,,,Clastic,,the Bloomsburg red clastic facies 
+WVStw;0,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,,greenish-brown to white Williamsport Sandstone. 
+WVStw;0,Incidental,Sedimentary,Chemical,Evaporite,Anhydrite,,Anhydrite,,"The Wills Creek contains anhydrite and rock salt, the latter supplying brine from deep wells along the Ohio River. "
+WVStw;0,Incidental,Sedimentary,Chemical,Evaporite,Salt,,Salt,,"The Wills Creek contains anhydrite and rock salt, the latter supplying brine from deep wells along the Ohio River. "
+WVwater;0,Major,Water,,,,,Water,, 

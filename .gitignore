@@ -1,0 +1,8 @@
+figure_outputs/*.*
+*.pdf
+*.png
+*.txt
+*.docx
+*.xlsx
+*.xls
+*.tif

@@ -1,0 +1,252 @@
+﻿Citation,Sample ID,Location,Lat (dd),Long (dd),Elevation,Relief ,Basin Area,Mean Lat,Mean Long,Basin Elev,Basin slope,Rock type,MAP,MAT,Veg %,Seismicity,Original 10Be concentration,10Be concentration 105,Published erosion rate,PER Error,CRONUS,cronus error
+Duxbury (2008),SH-01,"Old Rag Mountain, Virginia, United States",38.57,-78.29,703,955,39.49,38.59,-78.29,717.00,16.80,Igneous,1144,9,80,0.242800,187000,1.87,17.20,2.25,36.12,2.83
+Duxbury (2008),SH-01A,"Old Rag Mountain, Virginia, United States",38.57,-78.29,703,955,39.49,38.59,-78.29,717.00,16.80,Igneous,1144,9,80,0.242800,213000,2.13,14.70,1.90,30.49,2.30
+Duxbury (2008),SH-01B,"Old Rag Mountain, Virginia, United States",38.57,-78.29,703,955,39.49,38.59,-78.29,717.00,16.80,Igneous,1144,9,80,0.242800,209000,2.09,14.90,2.00,31.11,2.49
+Duxbury (2008),SH-01C,"Old Rag Mountain, Virginia, United States",38.57,-78.29,703,955,39.49,38.59,-78.29,717.00,16.80,Igneous,1144,9,80,0.242800,187000,1.87,16.70,2.20,35.01,2.98
+Duxbury (2008),SH-01D,"Old Rag Mountain, Virginia, United States",38.57,-78.29,703,955,39.49,38.59,-78.29,717.00,16.80,Igneous,1144,9,80,0.242800,139000,1.39,22.50,2.90,47.88,3.54
+Duxbury (2008),SH-02,"Thornton Gap, Virginia, United States",38.66,-78.36,618,451,2.81,38.67,-78.36,607.00,11.90,Metamorphic,1084,10,74,0.242800,612250,6.12,4.95,0.68,9.06,0.75
+Duxbury (2008),SH-02A,"Thornton Gap, Virginia, United States",38.66,-78.36,618,451,2.81,38.67,-78.36,607.00,11.90,Metamorphic,1084,10,74,0.242800,721000,7.21,4.10,0.60,7.45,0.62
+Duxbury (2008),SH-02B,"Thornton Gap, Virginia, United States",38.66,-78.36,618,451,2.81,38.67,-78.36,607.00,11.90,Metamorphic,1084,10,74,0.242800,615000,6.15,4.90,0.70,8.90,0.74
+Duxbury (2008),SH-02C,"Thornton Gap, Virginia, United States",38.66,-78.36,618,451,2.81,38.67,-78.36,607.00,11.90,Metamorphic,1084,10,74,0.242800,557000,5.57,5.40,0.70,9.94,0.80
+Duxbury (2008),SH-02D,"Thornton Gap, Virginia, United States",38.66,-78.36,618,451,2.81,38.67,-78.36,607.00,11.90,Metamorphic,1084,10,74,0.242800,556000,5.56,5.40,0.70,9.96,0.82
+Duxbury (2008),SH-03,"McGaheysville, Virginia, United States",38.36,-78.65,498,502,9.43,38.34,-78.65,502.00,15.40,Metamorphic,1060,11,71,0.246891,717500,7.18,7.18,0.93,7.03,1.15
+Duxbury (2008),SH-03A,"McGaheysville, Virginia, United States",38.36,-78.65,498,502,9.43,38.34,-78.65,502.00,15.40,Metamorphic,1060,11,71,0.246891,570000,5.70,5.70,0.70,8.89,1.39
+Duxbury (2008),SH-03B,"McGaheysville, Virginia, United States",38.36,-78.65,498,502,9.43,38.34,-78.65,502.00,15.40,Metamorphic,1060,11,71,0.246891,730000,7.30,7.30,1.00,6.73,1.17
+Duxbury (2008),SH-03C,"McGaheysville, Virginia, United States",38.36,-78.65,498,502,9.43,38.34,-78.65,502.00,15.40,Metamorphic,1060,11,71,0.246891,850000,8.50,8.50,1.10,5.66,0.95
+Duxbury (2008),SH-03D,"McGaheysville, Virginia, United States",38.36,-78.65,498,502,9.43,38.34,-78.65,502.00,15.40,Metamorphic,1060,11,71,0.246891,720000,7.20,7.20,0.90,6.83,1.10
+Duxbury (2008),SH-04,"Crimora, Virginia, United States",38.20,-78.79,651,587,12.71,38.20,-78.79,656.00,21.30,Sedimentary,1111,10,74,0.226691,1167500,11.68,11.68,1.53,4.58,0.79
+Duxbury (2008),SH-04A,"Crimora, Virginia, United States",38.20,-78.79,651,587,12.71,38.20,-78.79,656.00,21.30,Sedimentary,1111,10,74,0.226691,1230000,12.30,12.30,1.60,4.18,0.72
+Duxbury (2008),SH-04B,"Crimora, Virginia, United States",38.20,-78.79,651,587,12.71,38.20,-78.79,656.00,21.30,Sedimentary,1111,10,74,0.226691,1350000,13.50,13.50,1.70,3.75,0.64
+Duxbury (2008),SH-04C,"Crimora, Virginia, United States",38.20,-78.79,651,587,12.71,38.20,-78.79,656.00,21.30,Sedimentary,1111,10,74,0.226691,1210000,12.10,12.10,1.60,4.26,0.74
+Duxbury (2008),SH-04D,"Crimora, Virginia, United States",38.20,-78.79,651,587,12.71,38.20,-78.79,656.00,21.30,Sedimentary,1111,10,74,0.226691,880000,8.80,8.80,1.20,6.13,1.07
+Duxbury (2008),SH-05,"Bentonville, Virginia, United States",38.68,-75.89,899,287,1.52,38.76,-75.89,819.00,8.20,Metamorphic,1172,8,80,0.242800,1513025,15.13,5.10,0.70,3.82,0.33
+Duxbury (2008),SH-06,"Luray, Virginia, United States",38.68,-78.38,448,355,1.47,38.69,-78.38,452.00,18.00,Sedimentary,1022,11,74,0.242800,779880,7.80,6.90,0.90,6.03,0.49
+Duxbury (2008),SH-07,"Big Meadows, Virginia, United States",38.58,-78.41,847,748,6.40,38.57,-78.41,831.00,21.00,Igneous,1154,9,79,0.242800,503169,5.03,14.80,1.90,13.10,1.02
+Duxbury (2008),SH-08,"Luray, Virginia, United States",38.63,-78.39,717,846,4.58,38.61,-78.39,732.00,18.00,Igneous,1134,9,78,0.242800,325720,3.26,21.80,2.80,19.54,1.46
+Duxbury (2008),SH-09,"Thornton Gap, Virginia, United States",38.70,-78.32,778,128,0.06,38.70,-78.32,804.00,14.40,Metamorphic,1129,9,80,0.242800,877415,8.77,8.20,1.10,6.98,0.58
+Duxbury (2008),SH-10,"Thornton Gap, Virginia, United States",38.66,-78.28,651,729,14.09,38.66,-78.28,659.00,16.70,Igneous,1115,9,80,0.242800,362424,3.62,16.30,2.10,16.58,1.26
+Duxbury (2008),SH-11,"Washington, Virginia, United States",38.65,-78.25,558,820,24.31,38.66,-78.25,569.00,16.20,Igneous,1094,10,80,0.242800,359862,3.60,17.00,2.20,15.63,1.19
+Duxbury (2008),SH-12,"Old Rag Mountain, Virginia, United States",38.62,-78.26,693,819,14.19,38.62,-78.26,702.00,15.10,Igneous,1145,9,80,0.242800,428488,4.28,15.80,2.00,14.24,1.11
+Duxbury (2008),SH-13,"Old Rag Mountain, Virginia, United States",38.54,-78.27,518,648,1.79,38.55,-78.27,321.00,10.80,Igneous,1112,10,80,0.242800,454679,4.55,12.60,1.60,9.99,0.77
+Duxbury (2008),SH-14,"Old Rag Mountain, Virginia, United States",38.53,-78.28,281,246,0.96,38.53,-78.28,470.00,15.70,Igneous,1053,11,80,0.242800,336424,3.36,18.00,2.40,15.66,1.32
+Duxbury (2008),SH-15,"Old Rag Mountain, Virginia, United States",38.52,-78.29,430,630,5.97,38.52,-78.29,440.00,16.40,Igneous,1085,11,80,0.246891,422521,4.23,12.90,1.70,11.87,0.91
+Duxbury (2008),SH-16,"Old Rag Mountain, Virginia, United States",38.54,-78.35,875,857,13.80,38.57,-78.35,890.00,13.70,Metamorphic,1197,8,80,0.242800,332717,3.33,23.60,3.00,21.31,1.61
+Duxbury (2008),SH-17,"Bentonville, Virginia, United States",38.78,-78.37,480,687,9.28,38.77,-78.37,489.00,15.00,Mixed,1026,10,75,0.242800,1056020,10.56,5.20,0.70,4.37,0.37
+Duxbury (2008),SH-18*,"Thornton Gap, Virginia, United States",38.66,-78.36,617,453,2.83,38.67,-78.36,605.00,11.90,Metamorphic,1084,10,74,0.242800,1099416,10.99,5.50,0.70,4.60,0.39
+Duxbury (2008),SH-19,"Fletcher, Virginia, United States",38.47,-78.50,828,702,11.49,38.49,-78.50,836.00,15.90,Metamorphic,1173,9,78,0.246891,534730,5.35,14.10,1.80,12.27,0.96
+Duxbury (2008),SH-20,"McGaheysville, Virginia, United States",38.36,-78.66,572,497,1.61,38.34,-78.66,569.00,16.80,Metamorphic,1067,10,75,0.246891,835514,8.36,7.00,0.90,6.08,0.50
+Duxbury (2008),SH-21,"Thornton Gap, Virginia, United States",38.65,-78.37,699,666,5.65,38.63,-78.37,707.00,19.20,Igneous,1101,10,79,0.242800,457692,4.58,15.00,1.90,13.27,1.02
+Duxbury (2008),SH-22,"Big Meadows, Virginia, United States",38.61,-78.42,517,727,2.66,38.61,-78.42,507.00,14.30,Igneous,1031,11,39,0.242800,655439,6.55,10.00,1.30,7.67,0.61
+Duxbury (2008),SH-23,"Big Meadows, Virginia, United States",38.87,-78.18,494,503,18.73,38.85,-78.18,497.00,12.50,Mixed,1053,10,73,0.242800,332805,3.33,17.60,2.20,16.20,1.22
+Duxbury (2008),SH-24,"Big Meadows, Virginia, United States",38.17,-78.75,726,471,3.65,38.17,-78.75,730.00,19.70,Mixed,1160,10,79,0.226691,522736,5.23,13.50,1.70,11.58,0.92
+Duxbury (2008),SH-25,"Browns Cove, Virginia, United States",38.15,-78.75,709,657,25.22,38.19,-78.75,714.00,17.30,Metamorphic,1147,10,73,0.226691,729171,7.29,9.30,1.30,7.92,0.73
+Duxbury (2008),SH-26,"Swift Run, Virginia, United States",38.29,-78.62,795,382,2.48,38.30,-78.62,797.00,13.90,Metamorphic,1158,9,80,0.246891,625662,6.26,11.70,1.50,10.01,0.79
+Duxbury (2008),SH-27,"Waynesboro East, Virginia, United States",38.10,-78.80,658,405,3.44,38.11,-78.80,636.00,16.60,Sedimentary,1144,10,70,0.226691,1005568,10.06,6.20,0.80,5.15,0.43
+Duxbury (2008),SH-28,"Waynesboro East, Virginia, United States",38.10,-78.80,632,417,5.70,38.11,-78.80,636.00,16.60,Sedimentary,1127,10,73,0.226691,934511,9.35,6.70,0.90,5.63,0.46
+Duxbury (2008),SH-29,"Waynesboro East, Virginia, United States",38.11,-78.83,479,23,0.01,38.11,-78.83,584.00,14.00,Metamorphic,1081,11,80,0.226691,1262680,12.63,4.70,0.60,3.82,0.33
+Duxbury (2008),SH-30,"Crimora, Virginia, United States",38.18,-78.79,767,240,0.80,38.18,-78.79,778.00,15.30,Metamorphic,1137,10,78,0.226691,933658,9.34,7.50,1.00,6.31,0.52
+Duxbury (2008),SH-31,"Crimora, Virginia, United States",38.16,-78.80,726,445,8.47,38.17,-78.80,728.00,18.40,Mixed,1128,10,78,0.226691,818823,8.19,8.40,1.10,7.03,0.57
+Duxbury (2008),SH-32,"McGaheysville, Virginia, United States",38.31,-78.73,474,332,1.05,38.30,-78.73,472.00,10.80,Metamorphic,1030,11,80,0.226691,1085886,10.86,5.00,0.70,4.13,0.35
+Duxbury (2008),SH-33,"McGaheysville, Virginia, United States",38.31,-78.73,468,339,1.11,38.30,-78.73,467.00,10.60,Mixed,1030,11,80,0.226691,1058720,10.59,5.30,0.70,4.25,0.36
+Duxbury (2008),SH-34,"Crimora, Virginia, United States",38.17,-78.81,628,275,0.40,38.17,-78.81,616.00,17.90,Metamorphic,1097,10,75,0.226691,391194,3.91,16.80,2.10,14.65,1.11
+Duxbury (2008),SH-35,"Crimora, Virginia, United States",38.18,-78.81,541,133,0.04,38.18,-78.81,555.00,16.60,Metamorphic,1097,10,75,0.226691,937424,9.37,6.30,0.80,5.26,0.48
+Duxbury (2008),SH-36,"Crimora, Virginia, United States",38.18,-78.81,648,253,0.19,38.18,-78.81,645.00,19.90,Metamorphic,1095,11,74,0.226691,614022,6.14,10.80,1.40,9.10,0.74
+Duxbury (2008),SH-37,"McGaheysville, Virginia, United States",38.25,-78.75,610,420,1.59,38.26,-78.75,620.00,19.60,Sedimentary,1077,10,80,0.226691,698748,6.99,9.00,1.20,7.74,0.62
+Duxbury (2008),SH-38,"Grottoes, Virginia, United States",38.26,-78.77,643,600,15.12,38.24,-78.77,647.00,19.20,Mixed,1098,10,79,0.226691,671159,6.71,9.70,1.30,8.27,0.66
+Duxbury (2008),SH-39,"Crimora, Virginia, United States",38.22,-78.78,751,505,3.06,38.22,-78.78,756.00,24.40,Sedimentary,1122,10,75,0.226691,695758,6.96,10.20,1.40,8.62,0.82
+Duxbury (2008),SH-40,"Browns Cove, Virginia, United States",38.24,-78.69,808,488,3.37,38.24,-78.69,815.00,15.10,Metamorphic,1159,9,80,0.246891,824001,8.24,9.10,1.20,7.47,0.61
+Duxbury (2008),SH-41**,"Crimora, Virginia, United States",38.18,-78.81,646,251,0.18,38.18,-78.81,639.00,19.80,Metamorphic,1095,11,74,0.226691,717160,7.17,8.90,1.20,7.62,0.61
+Duxbury (2008),SH-42,"Crimora, Virginia, United States",38.16,-78.79,791,300,0.58,38.16,-78.79,788.00,19.50,Sedimentary,1162,10,79,0.226691,445668,4.46,16.20,2.10,14.36,1.10
+Duxbury (2008),SH-43,"Swift Run, Virginia, United States",38.36,-78.57,639,372,2.12,38.36,-78.57,640.00,13.90,Mixed,1117,10,80,0.246891,423655,4.24,15.10,1.90,13.69,1.05
+Duxbury (2008),SH-44,"Stannardsville, Virginia, United States",38.34,-78.46,268,105,1.26,38.35,-78.46,269.00,5.70,Mixed,1074,12,80,0.246891,506253,5.06,12.90,1.70,8.48,0.68
+Duxbury (2008),SH-45,"Old Rag Mountain, Virginia, United States",38.52,-78.27,259,246,4.14,38.51,-78.27,258.00,11.30,Igneous,1056,12,68,0.246891,488209,4.88,9.70,1.30,8.78,0.69
+Duxbury (2008),SH-46,"Washington, Virginia, United States",38.64,-78.25,442,365,1.58,38.64,-78.25,442.00,17.00,Igneous,1073,10,80,0.242800,275669,2.76,19.70,2.50,19.06,1.43
+Duxbury (2008),SH-47,"Washington, Virginia, United States",38.65,-78.21,301,448,12.48,38.64,-78.21,304.00,11.00,Igneous,1045,11,63,0.242800,394263,3.94,11.90,1.50,11.61,0.88
+Duxbury (2008),SH-48,"Washington, Virginia, United States",38.84,-78.11,397,535,16.85,38.85,-78.11,403.00,10.60,Mixed,1045,10,77,0.242800,380207,3.80,13.80,1.80,13.07,0.99
+Duxbury (2008),SH-49,"Front Royal, Virginia, United States",38.93,-78.18,277,332,10.88,38.91,-78.18,277.00,8.00,Mixed,1000,11,51,0.242800,1242250,12.42,3.80,0.50,3.02,0.27
+Duxbury (2008),SH-50,"Chester Gap, Virginia, United States",38.82,-78.21,520,354,0.35,38.82,-78.21,508.00,15.00,Igneous,1054,10,77,0.242800,713664,7.14,7.90,1.00,6.99,0.56
+Duxbury (2008),SH-51,"Chester Gap, Virginia, United States",38.80,-78.24,557,658,4.51,38.78,-78.24,562.00,15.10,Igneous,1070,10,80,0.242800,522320,5.22,11.70,1.50,10.35,0.81
+Duxbury (2008),SH-52,"Chester Gap, Virginia, United States",38.81,-78.23,572,776,22.91,38.78,-78.23,583.00,14.60,Igneous,1069,10,79,0.242800,487595,4.88,12.30,1.60,11.33,0.88
+Duxbury (2008),SH-54,"McGaheysville, Virginia, United States",38.29,-78.72,679,355,1.78,38.29,-78.72,679.00,22.40,Sedimentary,1104,10,79,0.226691,418702,4.19,16.70,2.10,14.25,1.10
+Duxbury (2008),SH-56,"Stanley, Virginia, United States",38.53,-78.60,529,980,3305.62,38.28,-78.60,634.00,8.70,Mixed,1026,10,48,0.226691,813862,8.14,7.30,0.90,6.59,0.54
+Matmon et al. (2003),GSAC-1,"Abraham's Creek, Great Smoky Mountains National Park, United States",35.61,-83.94,759,1189,157.48,35.58,-83.84,778.00,12.50,Metamorphic,1525,11,79,0.612110,362000,3.62,14.20,1.80,17.12,1.35
+Matmon et al. (2003),GSBC-1,"Big Creek, Great Smoky Mountains National Park, United States",35.75,-83.12,1317,1449,74.78,35.71,-83.17,1336.00,20.80,Metamorphic,1620,9,80,0.659329,234000,2.34,33.70,4.30,39.39,3.02
+Matmon et al. (2003),GSBC-2,"Big Creek, Great Smoky Mountains National Park, United States",35.74,-83.13,1360,1308,65.64,35.71,-83.18,1375.00,21.10,Metamorphic,1653,9,80,0.659329,247000,2.47,33.00,4.20,38.17,3.03
+Matmon et al. (2003),GSCA-1,"Cataluchee River, Great Smoky Mountains National Park, United States",35.67,-83.07,1222,1110,149.61,35.63,-83.12,1236.00,17.00,Metamorphic,1600,9,80,0.659329,379000,3.79,19.30,2.50,22.19,1.76
+Matmon et al. (2003),GSCO-1,"Oconaluftee, Great Smoky Mountains National Park, United States",35.51,-83.30,1230,1320,330.39,35.59,-83.28,1254.00,19.20,Metamorphic,1663,9,80,0.659329,295000,2.95,26.35,3.40,31.91,2.46
+Matmon et al. (2003),GSCO-1,"Oconaluftee, Great Smoky Mountains National Park, United States",35.51,-83.30,1230,1320,330.39,35.59,-83.28,1254.00,19.20,Metamorphic,1663,9,80,0.659329,279500,2.80,28.00,3.60,30.95,2.23
+Matmon et al. (2003),GSCO-1,"Oconaluftee, Great Smoky Mountains National Park, United States",35.51,-83.30,1230,1320,330.39,35.59,-83.28,1254.00,19.20,Metamorphic,1663,9,80,0.659329,264000,2.64,24.70,3.20,32.86,2.69
+Matmon et al. (2003),GSCO-2,"Oconaluftee, Great Smoky Mountains National Park, United States",35.52,-83.31,1166,1255,134.87,35.59,-83.34,1187.00,19.80,Metamorphic,1644,9,80,0.659329,234000,2.34,30.10,3.80,35.71,2.77
+Matmon et al. (2003),GSCO-3,"Oconaluftee, Great Smoky Mountains National Park, United States",35.52,-83.31,1028,918,12.26,35.53,-83.34,1037.00,18.30,Metamorphic,1598,10,80,0.689927,312000,3.12,23.30,3.00,23.87,1.83
+Matmon et al. (2003),GSCO-4,"Oconaluftee, Great Smoky Mountains National Park, United States",35.56,-83.31,1220,1061,51.40,35.62,-83.32,1239.00,21.10,Metamorphic,1655,9,80,0.659329,200000,2.00,35.10,4.50,43.53,3.36
+Matmon et al. (2003),GSCO-5,"Oconaluftee, Great Smoky Mountains National Park, United States",35.57,-83.34,1175,824,9.32,35.56,-83.36,1180.00,19.30,Metamorphic,1657,9,80,0.659329,317000,3.17,26.20,3.30,25.81,1.99
+Matmon et al. (2003),GSCO-6,"Oconaluftee, Great Smoky Mountains National Park, United States",35.59,-83.36,1224,602,1.56,35.60,-83.35,1238.00,17.30,Metamorphic,1633,10,80,0.659329,361000,3.61,20.20,2.60,23.39,1.89
+Matmon et al. (2003),GSCO-7,"Oconaluftee, Great Smoky Mountains National Park, United States",35.60,-83.41,1443,428,2.37,35.61,-83.42,1448.00,19.50,Metamorphic,1801,8,80,0.659329,278000,2.78,30.50,3.90,35.29,2.73
+Matmon et al. (2003),GSCS-1,"Cosby Creek, Great Smoky Mountains National Park, United States",35.75,-83.21,1173,860,7.10,35.74,-83.20,1180.00,22.30,Metamorphic,1513,10,80,0.659329,191000,1.91,36.90,4.70,44.09,3.33
+Matmon et al. (2003),GSDC-1,"Deep Creek, Great Smoky Mountains National Park, United States",35.46,-83.43,1121,1349,104.89,35.54,-83.42,1147.00,18.70,Metamorphic,1663,10,80,0.674628,316000,3.16,21.60,2.70,25.33,1.95
+Matmon et al. (2003),GSEC-1,"Eagle Creek, Great Smoky Mountains National Park, United States",35.49,-83.77,1039,1128,57.67,35.53,-83.76,1061.00,17.60,Metamorphic,1674,10,80,0.649362,341000,3.41,17.40,2.20,22.07,1.76
+Matmon et al. (2003),GSFC-1,"Forney Creek, Great Smoky Mountains National Park, United States",35.47,-83.57,1166,1445,72.12,35.52,-83.56,1194.00,18.60,Metamorphic,1722,9,80,0.649362,359000,3.59,19.80,2.50,22.82,1.82
+Matmon et al. (2003),GSHC-1,"Hazel Creek, Great Smoky Mountains National Park, United States",35.48,-83.72,1100,1143,115.87,35.53,-83.66,1119.00,17.70,Metamorphic,1682,10,80,0.649362,318000,3.18,21.10,2.70,24.69,1.96
+Matmon et al. (2003),GSLP-1,"Little Pigeon, Great Smoky Mountains National Park, United States",35.74,-83.42,1164,1592,117.36,35.69,-83.36,1203.00,20.10,Metamorphic,1593,9,80,0.659329,225000,2.25,31.80,4.00,37.66,2.94
+Matmon et al. (2003),GSLR-1,"Little River, Great Smoky Mountains National Park, United States",35.66,-83.71,1054,1656,155.75,35.63,-83.58,1086.00,16.80,Metamorphic,1605,10,80,0.612110,264000,2.64,24.80,3.10,29.48,2.25
+Matmon et al. (2003),GSLR-2,"Little River, Great Smoky Mountains National Park, United States",35.60,-83.51,1433,854,7.90,35.60,-83.49,1447.00,19.40,Metamorphic,1783,8,80,0.612110,256000,2.56,33.80,4.30,38.42,3.05
+Matmon et al. (2003),GSLR-3,"Little River, Great Smoky Mountains National Park, United States",35.60,-83.52,1471,989,14.64,35.58,-83.51,1481.00,20.50,Metamorphic,1800,8,80,0.612110,178000,1.78,49.60,6.30,57.20,4.55
+Matmon et al. (2003),GSLR-4,"Little River, Great Smoky Mountains National Park, United States",35.62,-83.53,1270,764,5.93,35.62,-83.50,1282.00,18.70,Metamorphic,1661,9,79,0.612110,224000,2.24,33.90,4.30,39.76,3.11
+Matmon et al. (2003),GSLR-5,"Little River, Great Smoky Mountains National Park, United States",35.62,-83.54,1303,921,29.49,35.59,-83.57,1310.00,17.50,Metamorphic,1733,9,79,0.612110,301000,3.01,25.70,3.30,29.69,2.34
+Matmon et al. (2003),GSLR-6,"Little River, Great Smoky Mountains National Park, United States",35.65,-83.58,1110,776,11.88,35.63,-83.59,1118.00,16.30,Metamorphic,1641,10,80,0.612110,282000,2.82,23.90,3.10,28.08,2.26
+Matmon et al. (2003),GSLR-7,"Little River, Great Smoky Mountains National Park, United States",35.66,-83.60,1215,1382,100.43,35.61,-83.55,1235.00,17.80,Metamorphic,1681,9,80,0.612110,240000,2.40,30.70,3.90,35.88,2.85
+Matmon et al. (2003),GSMP-1,"Middle Prong, Great Smoky Mountains National Park, United States",35.66,-83.71,919,1312,118.32,35.61,-83.68,946.00,16.40,Metamorphic,1563,11,79,0.612110,267000,2.67,22.00,2.80,26.57,2.02
+Matmon et al. (2003),GSNC-1,"Nolan Creek, Great Smoky Mountains National Park, United States",35.46,-83.53,1163,1454,46.50,35.51,-83.49,1192.00,19.10,Metamorphic,1697,10,80,0.649362,363000,3.63,19.50,2.50,22.52,1.82
+Matmon et al. (2003),GSPB-1,"Parson's Branch Creek, Great Smoky Mountains National Park, United States",35.50,-83.93,797,985,14.96,35.52,-83.91,814.00,16.80,Metamorphic,1559,11,80,0.649362,295000,2.95,17.80,2.40,21.85,1.81
+Matmon et al. (2003),GSRF-1,"Raven Fork, Great Smoky Mountains National Park, United States",35.61,-83.26,1520,783,36.97,35.65,-83.26,1527.00,17.10,Metamorphic,1807,8,80,0.659329,434000,4.34,19.30,2.50,23.32,1.85
+Matmon et al. (2003),GSRF-2,"Ledge Creek, Great Smoky Mountains National Park, United States",35.63,-83.19,1287,324,1.64,35.63,-83.19,1298.00,17.30,Metamorphic,1652,9,80,0.659329,335000,3.35,22.70,2.90,26.34,2.06
+Matmon et al. (2003),GSRF-3,"Ledge Creek, Great Smoky Mountains National Park, United States",35.63,-83.19,1351,440,0.80,35.64,-83.19,1355.00,17.60,Metamorphic,1727,8,80,0.659329,461000,4.61,16.90,2.20,19.52,1.55
+Matmon et al. (2003),GSRF-5,"Ledge Creek, Great Smoky Mountains National Park, United States",35.62,-83.20,1281,396,0.70,35.62,-83.20,1288.00,17.10,Metamorphic,1644,9,80,0.659329,322000,3.22,23.70,3.00,27.28,2.14
+Matmon et al. (2003),GSRF-6,"Straight Fork, Great Smoky Mountains National Park, United States",35.62,-83.21,1440,905,27.28,35.66,-83.22,1454.00,20.60,Metamorphic,1749,8,80,0.659329,341000,3.41,25.00,3.20,28.64,2.25
+Matmon et al. (2003),GSRF-7,"Ledge Creek, Great Smoky Mountains National Park, United States",35.62,-83.21,1293,783,7.73,35.62,-83.19,1303.00,17.90,Metamorphic,1652,9,80,0.659329,376000,3.76,20.40,2.60,23.40,1.86
+Matmon et al. (2003),GSRF-8,"Straight Fork, Great Smoky Mountains National Park, United States",35.61,-83.21,1367,835,3.62,35.60,-83.20,1379.00,21.70,Metamorphic,1649,9,80,0.659329,297000,2.97,27.20,3.50,31.49,2.50
+Matmon et al. (2003),GSRF-9,"Straight Fork, Great Smoky Mountains National Park, United States",35.61,-83.22,1263,641,2.70,35.62,-83.23,1269.00,20.20,Metamorphic,1691,9,80,0.659329,274000,2.74,27.40,3.50,31.92,2.50
+Matmon et al. (2003),GSRF-10,"Straight Fork, Great Smoky Mountains National Park, United States",35.58,-83.24,1342,1052,51.84,35.64,-83.22,1359.00,20.70,Metamorphic,1696,9,80,0.659329,325000,3.25,24.60,3.10,28.31,2.22
+Matmon et al. (2003),GSRF-11,"Raven Fork, Great Smoky Mountains National Park, United States",35.58,-83.26,1466,1136,55.89,35.64,-83.27,1477.00,17.80,Metamorphic,1783,8,80,0.659329,452000,4.52,19.30,2.40,21.61,1.71
+Matmon et al. (2003),GSRF-12,"Raven Fork, Great Smoky Mountains National Park, United States",35.52,-83.30,1284,1309,191.60,35.60,-83.24,1309.00,18.90,Metamorphic,1681,9,80,0.659329,310000,3.10,24.80,3.20,28.77,2.27
+Matmon et al. (2003),GSTM-1,"Twenty Mile Creek, Great Smoky Mountains National Park, United States",35.47,-83.88,961,1075,39.15,35.50,-83.85,984.00,16.30,Metamorphic,1658,10,80,0.649362,309000,3.09,19.30,2.50,23.27,1.81
+Matmon et al. (2003),GSWP-1,"West Prong, Great Smoky Mountains National Park, United States",35.69,-83.54,1225,1534,63.65,35.64,-83.48,1268.00,20.70,Metamorphic,1677,9,80,0.612110,242000,2.42,31.00,3.90,36.36,2.77
+Reuter (2005),JSQ1,"Cordorus Creek near York, Pennsylvania, United States",39.95,-76.76,215,317,573.50,39.83,-76.79,216.00,4.70,Mixed,1062,10,24,0.257055,260956,2.61,13.50,,17.45,1.34
+Reuter (2005),JSQ2,"West Conewago Creek near Manchester, Pennsylvania, United States",40.08,-76.72,192,507,1326.26,39.96,-77.03,194.00,3.20,Mixed,1033,11,39,0.257055,246188,2.46,14.10,,18.34,1.43
+Reuter (2005),JSQ3,"Yellow Breeches Creek near Camp Hill, Pennsylvania, United States",40.23,-76.90,248,558,558.47,40.11,-77.16,252.00,4.90,Sedimentary,1047,10,49,0.249350,192281,1.92,19.10,,25.17,1.91
+Reuter (2005),JSQ4,"Susquehanna River at Harrisburg, Pennsylvania, United States",40.26,-76.89,429,870,62368.90,41.43,-76.95,438.00,7.30,Sedimentary,999,8,72,0.331836,128899,1.29,,,44.59,3.59
+Reuter (2005),JSQ5,"Sherman Creek at Shermans Dale, Pennsylvania, United States",40.32,-77.17,312,562,534.86,40.32,-77.41,318.00,8.10,Sedimentary,1042,10,70,0.250821,346742,3.47,11.10,,13.83,1.09
+Reuter (2005),JSQ6,"Bixler Run near Loysville, Pennsylvania, United States",40.37,-77.04,285,429,38.81,40.39,-77.44,287.00,6.80,Sedimentary,1026,10,74,0.249575,481188,4.81,7.70,,9.37,0.90
+Reuter (2005),JSQ7,"Juniata River at Newport, Pennsylvania, United States",40.48,-77.13,385,844,8678.51,40.38,-78.02,393.00,8.00,Sedimentary,1009,9,70,0.252078,219838,2.20,18.90,,24.10,2.04
+Reuter (2005),JSQ9,"Spring Creek near Axemann, Pennsylvania, United States",40.89,-77.79,392,498,224.20,40.80,-77.81,394.00,4.80,Sedimentary,1002,9,44,0.252165,314446,3.14,13.30,,16.44,1.29
+Reuter (2005),JSQ10,"Bald Eagle Creek Spring Creek at Milesbur, Pennsylvania, United States",40.94,-77.79,407,548,689.63,40.85,-77.89,412.00,7.50,Sedimentary,1002,9,63,0.302690,258375,2.58,16.40,,20.66,1.60
+Reuter (2005),JSQ11,"West Branch Susquehanna River at Bower, Pennsylvania, United States",40.90,-78.68,527,340,814.45,40.74,-78.74,529.00,6.40,Sedimentary,1118,8,73,0.252253,242597,2.43,19.40,,23.96,1.88
+Reuter (2005),JSQ12,"Raystown Branch Juniata River at Saxton, Pennsylvania, United States",40.22,-78.27,462,714,1952.58,40.07,-78.47,468.00,7.70,Sedimentary,997,9,77,0.254494,468240,4.68,9.30,,11.09,0.90
+Reuter (2005),JSQ13,"Dunning Creek at Belden, Pennsylvania, United States",40.07,-78.49,489,635,444.56,40.18,-78.58,496.00,7.50,Sedimentary,1026,9,67,0.254494,490938,4.91,9.10,,10.76,0.88
+Reuter (2005),JS39,"Swatara Creek at Harper Tavern, Pennsylvania, United States",40.04,-76.58,236,417,870.59,40.50,-76.40,239.00,5.30,Sedimentary,1107,9,61,0.281156,263900,2.64,13.70,,17.66,1.37
+Reuter (2005),JS42,"Conestoga River at Conestoga, Pennsylvania, United States",39.95,-76.37,148,362,1212.46,40.14,-76.19,149.00,3.20,Mixed,1086,10,32,0.289413,184442,1.84,18.20,,24.47,1.84
+Reuter (2005),JS43,"Mill Creek at Eshelman Mill Road near Lyndon, Pennsylvania, United States",40.01,-76.28,134,261,140.75,40.05,-76.15,134.00,2.20,Mixed,1082,11,12,0.289413,298671,2.99,11.00,,14.12,1.10
+Reuter (2005),JS44,"Little Conestoga Creek near Churchtown, Pennsylvania, United States",40.15,-75.99,194,156,14.10,40.15,-76.95,195.00,3.60,Sedimentary,1130,10,65,0.289413,355968,3.56,9.70,,12.19,0.98
+Reuter (2005),JS45,"Pequea Creek at Martic Forge, Pennsylvania, United States",39.91,-76.33,157,275,382.04,39.98,-76.13,157.00,3.50,Mixed,1093,10,23,0.289413,173767,1.74,19.40,,26.13,1.97
+Reuter (2005),JSQ100,"Dry Run, Pennsylvania, United States",41.38,-78.15,532,356,2.96,41.39,-78.14,536.00,18.40,Sedimentary,1063,7,80,0.193638,187297,1.87,25.20,,32.14,3.34
+Reuter (2005),JSQ101,"Driftwood Branch of Sinnemahoning Creek at Sterling Run, Pennsylvania,",41.41,-78.20,545,481,704.29,41.54,-78.30,548.00,11.80,Sedimentary,1083,7,80,0.267649,221594,2.22,21.60,,27.04,2.27
+Reuter (2005),JSQ102,"United States
+Russell Hollow Run, Pennsylvania, United States",41.46,-78.15,573,353,3.19,41.46,-78.13,576.00,17.70,Sedimentary,1071,7,80,0.193638,92307,0.92,53.60,,69.60,6.43
+Reuter (2005),JSQ103,"Crooked Run, Pennsylvania, United States",41.59,-78.19,565,344,5.59,41.59,-78.16,569.00,15.40,Sedimentary,1063,7,80,0.341866,149983,1.50,32.70,,41.67,3.81
+Reuter (2005),JSQ104,"Heth Run, Pennsylvania, United States",41.70,-78.04,636,192,3.53,41.71,-78.05,635.00,7.90,Sedimentary,1036,6,80,0.361424,166509,1.67,31.10,,39.00,3.33
+Reuter (2005),JSQ105,"Big Run, Pennsylvania, United States",41.46,-78.43,611,83,3.15,41.45,-78.43,612.00,4.10,Sedimentary,1122,6,80,0.193638,272911,2.73,18.50,,22.65,1.78
+Reuter (2005),JSQ106,"East Branch, Pennsylvania, United States",41.45,-78.36,604,176,3.19,41.46,-78.37,604.00,10.20,Sedimentary,1104,7,80,0.193638,226187,2.26,22.10,,27.57,2.30
+Reuter (2005),JSQ107,"Another Middle Branch, Pennsylvania, United States",41.43,-78.36,573,256,3.38,41.44,-78.37,573.00,11.40,Sedimentary,1097,7,80,0.193638,140802,1.41,34.70,,44.52,3.81
+Reuter (2005),JSQ108,"Bell Draft, Pennsylvania, United States",41.40,-78.36,628,198,5.38,41.41,-78.37,628.00,7.50,Sedimentary,1109,6,80,0.193638,347370,3.47,14.60,,17.68,1.42
+Reuter (2005),JSQ109,"South Branch Little Portage Creek, Pennsylvania, United States",41.60,-78.10,637,245,3.15,41.59,-78.12,638.00,15.90,Sedimentary,1069,6,80,0.341866,131392,1.31,39.50,,50.39,4.80
+Reuter (2005),JSQ110,"Wykoff Branch--HIGH, Pennsylvania, United States",41.45,-77.98,614,68,1.24,41.46,-77.98,613.00,2.90,Sedimentary,1056,7,77,0.353214,552113,5.52,9.00,,10.53,0.87
+Reuter (2005),JSQ111,"Wykoff Branch--LOW, Pennsylvania, United States",41.45,-77.95,583,241,4.67,41.45,-77.97,583.00,6.50,Sedimentary,1053,7,79,0.353214,351631,3.52,13.90,,16.85,1.37
+Reuter (2005),JSQ112,"Left Fork Bearfield Run, Pennsylvania, United States",41.39,-77.95,506,327,3.44,41.39,-77.97,506.00,12.70,Sedimentary,1045,7,80,0.353214,122066,1.22,37.90,,49.52,4.48
+Reuter (2005),JSQ113,"Lebo Branch, Pennsylvania, United States",41.36,-77.97,540,230,3.88,41.37,-77.99,540.00,10.20,Sedimentary,1052,7,80,0.353214,254724,2.55,18.60,,23.11,1.83
+Reuter (2005),JSQ114,"Pebble Run, Pennsylvania, United States",41.25,-78.28,633,109,6.44,41.26,-78.29,633.00,2.60,Sedimentary,1096,7,80,0.193638,457999,4.58,11.10,,13.09,1.08
+Reuter (2005),JSQ115,"Sanders Draft, Pennsylvania, United States",41.28,-78.23,626,176,4.82,41.28,-78.22,627.00,5.10,Sedimentary,1087,7,80,0.193638,348755,3.49,14.50,,17.53,1.42
+Reuter (2005),JSQ116,"Little Birch Island Run, Pennsylvania, United States",41.20,-78.04,549,226,6.47,41.22,-78.07,550.00,4.20,Sedimentary,1054,7,78,0.353214,375191,3.75,12.70,,15.30,1.22
+Reuter (2005),JSQ117,"Tributary to Little Birch Island Run, Pennsylvania, United States",41.21,-78.03,504,128,3.37,41.22,-78.05,504.00,3.60,Sedimentary,1048,7,79,0.353214,369524,3.70,12.40,,15.00,1.21
+Reuter (2005),JSQ118,"Drake Hollow, Pennsylvania, United States",41.29,-77.79,582,355,4.02,41.27,-77.79,585.00,12.80,Sedimentary,1051,7,80,0.353214,236567,2.37,20.90,,25.80,2.19
+Reuter (2005),JSQ119,"Laurely Fork, Pennsylvania, United States",41.27,-77.77,569,328,5.31,41.27,-77.75,572.00,16.70,Sedimentary,1041,7,80,0.353214,148010,1.48,33.20,,42.20,3.54
+Reuter (2005),JSQ120,"Yost Run--LOW, Pennsylvania, United States",41.21,-77.92,608,380,15.11,41.19,-77.90,610.00,9.40,Sedimentary,1054,7,80,0.353214,245627,2.46,20.60,,25.21,2.10
+Reuter (2005),JSQ121,"Kyler Fork of Yost Run, Pennsylvania, United States",41.16,-77.91,674,22,0.58,41.16,-77.90,675.00,1.60,Sedimentary,1064,7,80,0.353214,782941,7.83,6.60,,7.47,0.67
+Reuter (2005),JSQ123,"Middle Branch, Pennsylvania, United States",41.20,-77.80,649,111,3.07,41.21,-77.81,649.00,4.80,Sedimentary,1056,7,80,0.353214,516210,5.16,9.90,,11.62,0.94
+Reuter (2005),JSQ124,"Sulphur Run, Pennsylvania, United States",41.21,-77.34,292,138,2.67,41.20,-77.35,292.00,8.40,Sedimentary,993,9,80,0.288034,381397,3.81,9.90,,12.33,1.15
+Reuter (2005),JSQ125,"Gottshall Run--LOW, Pennsylvania, United States",41.10,-77.25,528,208,9.70,41.09,-77.26,528.00,4.90,Sedimentary,1049,8,80,0.288034,200677,2.01,23.40,,29.50,2.35
+Reuter (2005),JSQ126,"Gottshall Run--HIGH, Pennsylvania, United States",41.09,-77.28,551,87,2.12,41.08,-77.27,551.00,3.20,Sedimentary,1056,7,79,0.288034,281435,2.81,17.00,,20.91,1.61
+Reuter (2005),JSQ127,"Jamison Run, Pennsylvania, United States",41.07,-77.31,555,92,5.53,41.08,-77.29,555.00,3.60,Sedimentary,1056,8,80,0.288034,526496,5.26,9.00,,10.57,0.85
+Reuter (2005),JSQ128,"Tributary to White Deer Hole Run, Pennsylvania, United States",41.08,-77.12,516,191,3.18,41.08,-77.10,517.00,8.10,Sedimentary,1052,8,80,0.288034,334049,3.34,13.90,,16.91,1.33
+Reuter (2005),JSQ129,"Buffalo Creek, Pennsylvania, United States",40.94,-77.22,624,104,3.13,40.94,-77.24,624.00,3.10,Sedimentary,1091,7,80,0.288034,747159,7.47,6.60,,7.54,0.63
+Reuter (2005),JSQ130,"Mud Creek, Pennsylvania, United States",41.07,-76.62,202,99,6.36,41.09,-76.60,203.00,2.70,Sedimentary,989,9,31,0.275900,307621,3.08,11.40,,14.56,1.18
+Reuter (2005),JSQ131,"Tributary to Spruce Run Creek, Pennsylvania, United States",41.08,-76.52,281,162,5.20,41.07,-76.54,281.00,7.30,Sedimentary,1016,8,74,0.275900,247895,2.48,15.30,,19.64,1.76
+Reuter (2005),JSQ132,"Tributary to Plum Creek, Pennsylvania, United States",40.85,-76.72,213,106,3.79,40.86,-76.70,213.00,4.20,Sedimentary,1042,9,63,0.255970,525364,5.25,6.60,,8.03,0.68
+Reuter (2005),JSQ133,"Wolf Run, Pennsylvania, United States",40.52,-76.75,491,121,2.99,40.52,-76.76,492.00,3.60,Sedimentary,1139,8,80,0.255970,521875,5.22,8.50,,10.08,0.81
+Reuter (2005),JSQ134,"Independence Run, Pennsylvania, United States",40.69,-76.90,209,127,5.61,40.70,-76.92,210.00,5.20,Sedimentary,1058,10,53,0.249575,227316,2.27,15.60,,20.43,1.71
+Reuter (2005),JSQ135,"Boyers Run, Pennsylvania, United States",40.63,-76.96,219,138,3.96,40.62,-76.98,219.00,7.30,Sedimentary,1060,10,75,0.249575,190707,1.91,18.70,,24.83,1.84
+Reuter (2005),JSQ136,"Tributary to Lick Run, Pennsylvania, United States",40.37,-77.66,331,99,3.29,40.38,-77.65,331.00,5.40,Sedimentary,1015,9,80,0.252165,956312,9.56,3.90,,4.42,0.39
+Reuter (2005),JSQ137,"Minehart Run, Pennsylvania, United States",40.53,-77.61,445,309,8.64,40.51,-77.63,446.00,12.60,Sedimentary,1046,9,79,0.252165,383304,3.83,11.30,,13.70,1.08
+Reuter (2005),JSQ138,"Tributary to Minehart Run, Pennsylvania, United States",40.53,-77.61,424,257,3.78,40.54,-77.59,424.00,12.70,Sedimentary,1048,9,78,0.252165,289935,2.90,14.70,,18.29,1.41
+Reuter (2005),JSQ139,"Wharton Run, Pennsylvania, United States",40.41,-77.77,509,306,3.15,40.40,-77.76,511.00,15.30,Sedimentary,1051,8,76,0.252165,199937,2.00,23.00,,29.05,2.28
+Reuter (2005),JSQ140,"Shores Branch, Pennsylvania, United States",40.33,-78.05,473,167,3.10,40.33,-78.07,474.00,3.30,Sedimentary,1007,9,80,0.252165,586240,5.86,7.40,,8.70,0.74
+Reuter (2005),JSQ141,"Laurel Run, Pennsylvania, United States",40.33,-78.11,516,205,4.49,40.34,-78.09,515.00,5.40,Sedimentary,1009,9,76,0.252253,468412,4.68,9.70,,11.54,0.95
+Reuter (2005),JSQ142,"Tributary to Frankstown Branch Juniata River, Pennsylvania, United States",40.44,-78.30,356,100,2.80,40.45,-78.31,355.00,6.60,Sedimentary,985,9,80,0.252253,426230,4.26,9.30,,11.34,0.91
+Reuter (2005),JSQ143,"Croyle Run, Pennsylvania, United States",40.70,-77.80,583,321,3.02,40.71,-77.79,584.00,8.50,Sedimentary,1029,8,80,0.252165,869883,8.70,5.40,,6.12,0.52
+Reuter (2005),JSQ144,"Another Laurel Run, Pennsylvania, United States",40.74,-77.79,637,221,3.15,40.74,-77.78,639.00,11.20,Sedimentary,1067,7,80,0.252165,712165,7.12,7.10,,8.02,0.67
+Reuter (2005),JSQ145,"Swift Run, Pennsylvania, United States",40.82,-77.42,523,224,3.26,40.81,-77.44,523.00,12.40,Sedimentary,1080,8,80,0.249575,271829,2.72,17.10,,21.15,1.74
+Reuter (2005),JSQ146,"Pine Swamp Run, Pennsylvania, United States",40.83,-77.48,558,91,3.30,40.83,-77.49,558.00,5.20,Sedimentary,1076,8,80,0.250870,335221,3.35,14.30,,17.32,1.34
+Reuter (2005),JSQ147,"Bear Run, Pennsylvania, United States",40.99,-77.49,503,281,3.22,41.00,-77.46,504.00,13.60,Sedimentary,1056,8,80,0.288034,159739,1.60,28.90,,36.95,2.96
+Reuter (2005),JSQ148,"Tributary from Kettle Mountain, Pennsylvania, United States",40.98,-77.49,533,358,4.85,40.97,-77.50,534.00,14.00,Sedimentary,1066,7,80,0.353214,228363,2.28,20.70,,25.84,2.03
+Reuter (2005),JSQ149,"Greens Run, Pennsylvania, United States",41.02,-77.71,371,202,3.04,41.02,-77.71,372.00,10.80,Metamorphic,1013,9,80,0.353214,199993,2.00,20.50,,26.50,2.39
+Reuter (2005),JSQ150,"Anderson Run, Pennsylvania, United States",39.81,-76.33,165,136,3.94,39.80,-76.34,165.00,4.50,Metamorphic,1079,11,51,0.257055,372548,3.73,9.00,,11.25,0.90
+Reuter (2005),JSQ151,"Mill Creek--LOW, Pennsylvania, United States",39.82,-76.34,177,87,3.45,39.82,-76.36,177.00,3.50,Metamorphic,1079,11,66,0.257055,604858,6.05,5.50,,6.54,0.56
+Reuter (2005),JSQ152,"Mill Creek--HIGH, Pennsylvania, United States",39.82,-76.35,180,75,3.04,39.82,-76.36,181.00,3.30,Metamorphic,1081,11,64,0.257055,594961,5.95,5.60,,6.69,0.61
+Reuter (2005),JSQ153,"Tributary to Conowingo Creek, Pennsylvania, United States",39.83,-76.19,192,151,25.31,39.86,-76.20,191.00,3.20,Metamorphic,1102,10,21,0.289413,300399,3.00,11.50,,14.67,1.17
+Reuter (2005),JSQ154,"Kellys Run, Pennsylvania, United States",39.84,-76.34,215,161,5.44,39.85,-76.32,216.00,5.50,Metamorphic,1088,10,37,0.257055,412688,4.13,8.40,,10.45,0.84
+Reuter (2005),JSQ155,"Tributary to Tucquan Creek, Pennsylvania, United States",39.87,-76.34,199,139,4.09,39.88,-76.33,199.00,5.00,Metamorphic,1083,10,63,0.257055,395062,3.95,8.70,,10.85,0.87
+Reuter (2005),JSQ156,"Tributary to Beaver Creek, Pennsylvania, United States",39.90,-76.52,241,95,4.41,39.89,-76.54,241.00,4.70,Metamorphic,1084,10,45,0.257055,367538,3.68,9.70,,12.14,0.97
+Reuter (2005),JSQ157,"Tributary to Bald Eagle Creek, Pennsylvania, United States",39.75,-76.44,192,71,3.93,39.74,-76.44,192.00,3.30,Metamorphic,1101,11,70,0.257055,283104,2.83,12.20,,15.65,1.18
+Reuter (2005),JSQ158,"Alum Rock Run, Pennsylvania, United States",39.78,-76.49,214,103,7.01,39.76,-76.49,213.00,3.60,Metamorphic,1101,11,48,0.257055,380355,3.80,9.20,,11.44,0.90
+Reuter (2005),JSQ159,"Another tributary to East Branch, Pennsylvania, United States",39.81,-76.62,281,98,7.47,39.80,-76.62,282.00,4.10,Metamorphic,1111,10,33,0.257055,433082,4.33,8.60,,10.44,0.85
+Reuter (2005),JSQ160,"Tributary to East Branch, Pennsylvania, United States",39.82,-76.65,259,76,3.81,39.81,-76.67,259.00,4.10,Metamorphic,1092,10,32,0.257055,376441,3.76,9.70,,12.01,0.96
+Reuter (2005),JSQ161,"Green Branch, Pennsylvania, United States",39.94,-76.47,198,102,3.38,39.92,-76.48,197.00,4.80,Metamorphic,1067,10,76,0.257055,406983,4.07,8.40,,10.47,0.86
+Reuter (2005),JSQ165,"Little Conestoga Creek near Millersville, Pennsylvania, United States",40.02,-76.36,119,142,104.67,40.09,-76.36,118.00,2.10,Mixed,1044,11,12,0.257055,334063,3.34,9.60,,12.31,0.97
+Sullivan (2007),CS-01,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.62,-80.78,867,91,2.05,36.63,-80.77,867.00,4.80,Metamorphic,1182,10,80,0.426849,787250,7.87,7.53,0.98,8.36,0.70
+Sullivan (2007),CS-01A,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.62,-80.78,867,91,2.05,36.63,-80.77,867.00,4.80,Metamorphic,1182,10,80,0.426849,644000,6.44,8.80,1.10,9.89,0.81
+Sullivan (2007),CS-01B,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.62,-80.78,867,91,2.05,36.63,-80.77,867.00,4.80,Metamorphic,1182,10,80,0.426849,716000,7.16,7.90,1.00,8.80,0.73
+Sullivan (2007),CS-01C,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.62,-80.78,867,91,2.05,36.63,-80.77,867.00,4.80,Metamorphic,1182,10,80,0.426849,675000,6.75,8.40,1.10,9.39,0.78
+Sullivan (2007),CS-01D,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.62,-80.78,867,91,2.05,36.63,-80.77,867.00,4.80,Metamorphic,1182,10,80,0.426849,1114000,11.14,5.00,0.70,5.37,0.47
+Sullivan (2007),CS-02,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.45,-80.85,477,181,2.82,36.46,-80.85,476.00,6.20,Metamorphic,1177,12,80,0.426849,524250,5.24,8.00,1.08,9.44,0.77
+Sullivan (2007),CS-02A,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.45,-80.85,477,181,2.82,36.46,-80.85,476.00,6.20,Metamorphic,1177,12,80,0.426849,511000,5.11,8.10,1.10,9.57,0.79
+Sullivan (2007),CS-02B,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.45,-80.85,477,181,2.82,36.46,-80.85,476.00,6.20,Metamorphic,1177,12,80,0.426849,500000,5.00,8.30,1.10,9.80,0.78
+Sullivan (2007),CS-02C,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.45,-80.85,477,181,2.82,36.46,-80.85,476.00,6.20,Metamorphic,1177,12,80,0.426849,460000,4.60,9.00,1.20,10.76,0.85
+Sullivan (2007),CS-02D,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.45,-80.85,477,181,2.82,36.46,-80.85,476.00,6.20,Metamorphic,1177,12,80,0.426849,626000,6.26,6.60,0.90,7.61,0.64
+Sullivan (2007),CS-03,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.83,549,645,89.72,36.52,-80.87,557.00,9.50,Metamorphic,1165,11,76,0.426849,375250,3.75,10.95,1.40,14.49,1.15
+Sullivan (2007),CS-03A,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.83,549,645,89.72,36.52,-80.87,557.00,9.50,Metamorphic,1165,11,76,0.426849,373000,3.73,10.90,1.40,14.41,1.15
+Sullivan (2007),CS-03B,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.83,549,645,89.72,36.52,-80.87,557.00,9.50,Metamorphic,1165,11,76,0.426849,368000,3.68,11.00,1.40,14.62,1.17
+Sullivan (2007),CS-03C,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.83,549,645,89.72,36.52,-80.87,557.00,9.50,Metamorphic,1165,11,76,0.426849,324000,3.24,12.60,1.60,16.81,1.32
+Sullivan (2007),CS-03D,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.83,549,645,89.72,36.52,-80.87,557.00,9.50,Metamorphic,1165,11,76,0.426849,436000,4.36,9.30,1.20,12.13,0.96
+Sullivan (2007),CS-04,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.86,502,226,0.92,36.47,-80.87,502.00,13.40,Metamorphic,1170,12,80,0.426849,321250,3.21,13.28,1.73,16.37,1.28
+Sullivan (2007),CS-04A,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.86,502,226,0.92,36.47,-80.87,502.00,13.40,Metamorphic,1170,12,80,0.426849,330000,3.30,12.90,1.70,15.84,1.26
+Sullivan (2007),CS-04B,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.86,502,226,0.92,36.47,-80.87,502.00,13.40,Metamorphic,1170,12,80,0.426849,344000,3.44,12.30,1.60,15.14,1.20
+Sullivan (2007),CS-04C,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.86,502,226,0.92,36.47,-80.87,502.00,13.40,Metamorphic,1170,12,80,0.426849,301000,3.01,14.20,1.80,17.52,1.36
+Sullivan (2007),CS-04D,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.86,502,226,0.92,36.47,-80.87,502.00,13.40,Metamorphic,1170,12,80,0.426849,310000,3.10,13.70,1.80,16.97,1.31
+Sullivan (2007),CS-05,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.47,-80.86,478,265,4.07,36.49,-80.87,477.00,8.40,Metamorphic,1164,12,78,0.426849,480000,4.80,8.40,1.10,10.27,0.84
+Sullivan (2007),CS-06,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.54,-80.86,601,318,0.48,36.55,-80.86,599.00,16.60,Metamorphic,1148,12,80,0.426849,237500,2.38,19.88,2.55,24.40,1.85
+Sullivan (2007),CS-06A,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.54,-80.86,601,318,0.48,36.55,-80.86,599.00,16.60,Metamorphic,1148,12,80,0.426849,239000,2.39,19.60,2.50,24.09,1.79
+Sullivan (2007),CS-06B,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.54,-80.86,601,318,0.48,36.55,-80.86,599.00,16.60,Metamorphic,1148,12,80,0.426849,220000,2.20,21.30,2.70,26.33,2.01
+Sullivan (2007),CS-06C,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.54,-80.86,601,318,0.48,36.55,-80.86,599.00,16.60,Metamorphic,1148,12,80,0.426849,225000,2.25,20.90,2.70,25.70,1.96
+Sullivan (2007),CS-06D,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.54,-80.86,601,318,0.48,36.55,-80.86,599.00,16.60,Metamorphic,1148,12,80,0.426849,266000,2.66,17.70,2.30,21.46,1.65
+Sullivan (2007),CS-07,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.56,-80.80,720,582,1.03,36.56,-80.81,737.00,17.90,Metamorphic,1184,11,80,0.426849,342750,3.43,16.00,2.08,19.20,1.52
+Sullivan (2007),CS-07A,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.56,-80.80,720,582,1.03,36.56,-80.81,737.00,17.90,Metamorphic,1184,11,80,0.426849,481000,4.81,10.60,1.40,12.40,1.02
+Sullivan (2007),CS-07B,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.56,-80.80,720,582,1.03,36.56,-80.81,737.00,17.90,Metamorphic,1184,11,80,0.426849,355000,3.55,14.50,1.90,17.26,1.39
+Sullivan (2007),CS-07C,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.56,-80.80,720,582,1.03,36.56,-80.81,737.00,17.90,Metamorphic,1184,11,80,0.426849,287000,2.87,18.00,2.30,21.72,1.73
+Sullivan (2007),CS-07D,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.56,-80.80,720,582,1.03,36.56,-80.81,737.00,17.90,Metamorphic,1184,11,80,0.426849,248000,2.48,20.90,2.70,25.41,1.93
+Sullivan (2007),CS-08,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.55,-80.79,858,151,3.72,36.62,-80.81,857.00,4.80,Metamorphic,1179,10,63,0.426849,681000,6.81,8.30,1.10,9.23,0.77
+Sullivan (2007),CS-09,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.33,-82.39,685,90,4.18,35.34,-82.39,684.00,3.30,Metamorphic,1395,12,40,0.637172,416000,4.16,11.70,1.50,13.72,1.09
+Sullivan (2007),CS-10,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.36,-82.40,714,86,0.58,35.36,-82.40,715.00,7.50,Metamorphic,1372,12,62,0.637172,378000,3.78,13.20,1.70,15.57,1.22
+Sullivan (2007),CS-13,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.31,-82.22,390,252,3.09,35.31,-82.23,391.00,7.70,Metamorphic,1399,14,75,0.652341,339000,3.39,11.20,1.50,13.99,1.17
+Sullivan (2007),CS-14,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.29,-82.23,566,505,0.70,35.29,-82.23,594.00,18.00,Metamorphic,1422,14,80,0.652341,121000,1.21,37.60,4.80,48.74,3.62
+Sullivan (2007),CS-15,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.34,-82.18,457,706,17.64,35.37,-82.22,462.00,9.70,Metamorphic,1375,13,73,0.652341,321000,3.21,12.50,1.60,15.63,1.20
+Sullivan (2007),CS-16,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.54,-82.38,884,559,11.06,35.55,-82.35,886.00,13.70,Metamorphic,1363,11,78,0.637172,422000,4.22,13.40,1.70,15.59,1.24
+Sullivan (2007),CS-18,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.62,-82.33,812,361,3.31,35.63,-82.34,814.00,11.10,Metamorphic,1317,11,77,0.630750,513000,5.13,10.40,1.30,12.01,0.96
+Sullivan (2007),CS-19,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.64,-82.22,701,496,6.43,35.63,-82.24,705.00,16.20,Metamorphic,1316,12,80,0.650875,188000,1.88,26.50,3.40,32.96,2.50
+Sullivan (2007),CS-20,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.62,-82.18,678,648,35.12,35.61,-82.23,685.00,12.70,Metamorphic,1323,12,78,0.650875,211000,2.11,23.20,3.00,28.75,2.28
+Sullivan (2007),CS-21,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.58,-82.16,593,619,47.39,35.57,-82.20,598.00,10.70,Metamorphic,1310,13,79,0.650875,251000,2.51,18.20,2.30,22.51,1.70
+Sullivan (2007),CS-22,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.57,-82.22,718,565,10.42,35.56,-82.24,722.00,14.70,Metamorphic,1332,12,80,0.650875,197000,1.97,25.50,3.30,31.67,2.47
+Sullivan (2007),CS-23,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.53,-82.17,679,517,4.05,35.54,-82.16,683.00,13.70,Metamorphic,1369,12,80,0.652341,221000,2.21,22.00,3.00,27.30,2.52
+Sullivan (2007),CS-24,"Blue Ridge Escarpment, North Carolina & Virginia, United States",35.55,-82.41,1057,579,5.07,35.56,-82.40,1064.00,16.40,Metamorphic,1491,10,80,0.630750,226000,2.26,29.00,3.70,34.18,2.65
+Sullivan (2007),CS-25,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.72,-80.43,902,164,5.28,36.73,-80.44,902.00,5.50,Metamorphic,1204,10,75,0.316836,761000,7.61,7.60,1.00,8.46,0.76
+Sullivan (2007),CS-26,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.77,-80.46,924,374,4.78,36.78,-80.46,923.00,10.60,Metamorphic,1186,10,79,0.247844,643000,6.43,9.20,1.20,10.35,0.86
+Sullivan (2007),CS-27,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.76,-80.37,950,157,8.50,36.77,-80.37,951.00,5.70,Metamorphic,1209,10,62,0.249140,680000,6.80,8.90,1.20,9.93,0.85
+Sullivan (2007),CS-28,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.79,-80.30,622,541,6.19,36.79,-80.32,626.00,14.20,Metamorphic,1203,11,80,0.249140,331000,3.31,14.30,1.90,17.31,1.38
+Sullivan (2007),CS-29,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.73,-80.23,566,545,18.17,36.71,-80.24,571.00,11.20,Metamorphic,1255,12,76,0.384531,704000,7.04,6.50,0.90,7.20,0.60
+Sullivan (2007),CS-30,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.66,-80.18,427,193,4.47,36.67,-80.18,427.00,4.80,Metamorphic,1252,12,76,0.384531,483000,4.83,8.30,1.10,9.85,0.94
+Sullivan (2007),CS-31,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.66,-80.34,690,399,5.46,36.68,-80.35,690.00,16.30,Metamorphic,1236,11,79,0.384531,181000,1.81,27.60,3.60,34.52,2.64
+Sullivan (2007),CS-32,"Blue Ridge Escarpment, North Carolina & Virginia, United States",36.62,-80.45,829,645,116.44,36.70,-80.41,833.00,9.10,Metamorphic,1217,10,75,0.384531,269000,2.69,16.70,2.10,24.90,1.92
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,

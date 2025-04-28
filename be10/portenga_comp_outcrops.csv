@@ -1,0 +1,251 @@
+﻿Citation,Sample ID,Location,Lat (dd),Long (dd),Elevation,Relief ,Rock type,Rock type 2,sample thickness,Sample type,MAP,MAT,Seismicity,Original 10Be concentration,10Be concentration 105,Published erosion rate,PER Error,CRONUS,cronus error
+Duxbury (2008),SH-53,"Hamburg, Massanutten Ridge, Virginia, United States",38.65,-78.60,692,573,sandstone,Sedimentary,2.5,Bedrock,980,10,0.238382,1778424,17.78,3.60,0.50,2.82,0.26
+Duxbury (2008),SH-55,"McGaheysville, Hangman's Run Tributary, Virginia, United States",38.30,-78.73,518,527,quartzite,Metamorphic,4.5,Bedrock,1058,11,0.238382,2244159,22.44,2.40,0.30,1.78,0.17
+Duxbury (2008),SH-57,"Thornton Gap, Virginia, United States",38.70,-78.33,811,231,siliciclastic,Sedimentary,2.5,Bedrock,1105,9,0.254245,591499,5.91,12.80,1.60,10.74,0.85
+Duxbury (2008),SH-58,"Thornton Gap, Virginia, United States",38.70,-78.32,860,493,metabasalt,Metamorphic,5.0,Bedrock,1130,9,0.254245,601358,6.01,13.00,1.70,10.93,0.91
+Duxbury (2008),SH-59,"Thornton Gap, Virginia, United States",38.64,-78.30,835,758,granite,Igneous,2.5,Bedrock,1166,9,0.254245,964608,9.65,7.80,1.00,6.35,0.52
+Hancock and Kirwin (2007),DS-1,"Dolly Sods Plateau, West Virginia, United States",39.07,-79.31,1250,440,Sandstone,Sedimentary,5.0,Flat Outcrop,1347,6,0.196390,1100000,11.00,6.30,1.30,7.55,2.47
+Hancock and Kirwin (2007),DS-2,"Dolly Sods Plateau, West Virginia, United States",39.07,-79.31,1220,539,Qtz Conglomerate,Sedimentary,5.0,Flat Outcrop,1337,6,0.196390,1290000,12.90,5.20,1.00,6.19,2.89
+Hancock and Kirwin (2007),DS-3,"Dolly Sods Plateau, West Virginia, United States",39.07,-79.31,1220,539,Qtz Conglomerate,Sedimentary,5.0,Top of tor,1337,6,0.196390,1990000,19.90,3.30,0.67,3.81,1.12
+Hancock and Kirwin (2007),DS-5,"Dolly Sods Plateau, West Virginia, United States",39.05,-79.31,1230,646,Qtz Conglomerate,Sedimentary,5.0,Flat Outcrop,1352,6,0.196390,1020000,10.20,6.70,1.30,8.07,2.16
+Hancock and Kirwin (2007),DS-6,"Dolly Sods Plateau, West Virginia, United States",38.94,-79.36,1230,661,Sandstone,Sedimentary,5.0,Top of tor,1351,6,0.196390,722000,7.22,9.50,1.80,11.72,3.42
+Hancock and Kirwin (2007),DS-7,"Dolly Sods Plateau, West Virginia, United States",38.94,-79.36,1230,970,Sandstone,Sedimentary,5.0,Top of tor,1324,7,0.196390,796000,7.96,8.70,1.70,10.55,2.79
+Hancock and Kirwin (2007),DS-8,"Dolly Sods Plateau, West Virginia, United States",39.05,-79.38,1260,292,Sandstone,Sedimentary,5.0,Top of tor,1342,7,0.196390,2990000,29.90,2.20,0.47,2.46,0.73
+Hancock and Kirwin (2007),DS-9,"Dolly Sods Plateau, West Virginia, United States",39.05,-79.38,1260,292,Sandstone,Sedimentary,5.0,Top of tor,1342,7,0.196390,2150000,21.50,3.10,0.65,3.60,1.03
+Matmon et al. (2003)h,GSC-3,"Straight Fork Basin, United States",35.61,-83.24,1250,730,Gneiss,Metamorphic,3.0,,1700,9,0.666844,470000,4.70,15.80,3.40,17.56,1.43
+Matmon et al. (2003)h,GSDV-1,"Oconaluftee, Little Pigeon Basins, United States",35.61,-83.42,1620,788,Sandstone,Sedimentary,3.0,,1844,8,0.666844,431000,4.31,22.60,2.90,24.57,1.90
+Matmon et al. (2003)h,GSDV-2,"Big Creek, Cosby Creek Basins, United States",35.73,-83.19,1570,905,Sandstone,Sedimentary,3.0,,1733,8,0.666844,221000,2.21,40.80,5.30,47.83,3.90
+Matmon et al. (2003)h,GSDV-3,"Big Creek, Cosby Creek Basins, United States",35.72,-83.24,1750,1095,Sandstone,Sedimentary,3.0,,1833,7,0.666844,216000,2.16,48.00,6.10,54.80,4.41
+Matmon et al. (2003)h,GSDV-4,"Big Creek, Raven Fork, Little Pigeon Basins, United States",35.69,-83.27,1900,898,Sandstone,Sedimentary,3.0,,1930,7,0.666844,371000,3.71,32.00,4.30,34.41,3.11
+Matmon et al. (2003)h,GSDV-6,"Raven Fork, Little Pigeon Basins, United States",35.66,-83.29,1800,834,Quartz Pegmatite,Igneous,3.0,,1838,8,0.666844,2170000,21.70,4.90,0.70,4.92,0.45
+Matmon et al. (2003)h,GSDV-7,"Oconaluftee, Little Pigeon Basins, United States",35.63,-83.38,1700,957,Sandstone,Sedimentary,3.0,,1879,7,0.666844,297000,2.97,32.40,4.10,38.14,3.01
+Matmon et al. (2003)h,GSDV-8,"Little River, Nolan Creek, Forney Creek Basins, United States",35.56,-83.50,2010,911,Sandstone,Sedimentary,3.0,,2032,6,0.666844,346000,3.46,37.70,4.90,39.49,3.35
+Matmon et al. (2003)h,GSDV-10,"Mt. Sterling Big Creek, Cataloochee Creek Basins, United States",35.70,-83.13,1750,1019,Sandstone,Sedimentary,3.0,,1814,7,0.646766,302000,3.02,34.20,4.40,38.75,3.16
+Matmon et al. (2003)h,GSDV-11,"Ledge Creek, Cataloochee Creek Basins, United States",35.63,-83.18,1410,914,Quartz Pegmatite,Igneous,3.0,,1702,9,0.666844,410000,4.10,23.00,2.90,22.58,1.83
+Portenga (2011),EPP01,"Loudoun Heights, Harpers Ferry National Historic Park, Virginia, United States",39.31,-77.74,170,376,Quartzite,Metamorphic,3.0,Top of flat-lying outcrop,1028,11,0.232701,762174,7.62,,,4.30,0.36
+Portenga (2011),EPP02,"Loudoun Heights, Harpers Ferry National Historic Park, Virginia, United States",39.31,-77.74,170,376,Quartzite,Metamorphic,2.0,Top of flat-lying outcrop,1028,11,0.232701,581777,5.82,,,5.96,0.48
+Portenga (2011),EPP04,"White Rocks, Cunningham Falls State Park, Maryland, United States",39.57,-77.45,468,441,Quartzite,Metamorphic,5.0,Outcrop near cliff edge,1104,10,0.252288,1239538,12.40,,,3.11,0.27
+Portenga (2011),EPP05,"White Rocks, Cunningham Falls State Park, Maryland, United States",39.57,-77.45,468,439,Quartzite,Metamorphic,5.0,Outcrop on summit-flats,1104,10,0.252288,678285,6.78,,,6.29,0.50
+Portenga (2011),EPP06,"White Rocks, Cunningham Falls State Park, Maryland, United States",39.57,-77.45,468,439,Quartzite,Metamorphic,7.0,Outcrop on summit-flats,1104,10,0.252288,975643,9.76,,,4.06,0.35
+Portenga (2011),EPP07,"White Rocks, Cunningham Falls State Park, Maryland, United States",39.57,-77.45,468,441,Quartzite,Metamorphic,6.0,Outcrop near cliff edge,1104,10,0.252288,1387088,13.87,,,2.70,0.24
+Portenga (2011),EPP08,"Chimney Rock, Catoctin Mountain Park, Maryland, United States",39.63,-77.43,382,452,Quartzite,Metamorphic,2.0,Top of ridgeline outcrop,1081,10,0.252288,1023955,10.24,,,3.71,0.32
+Portenga (2011),EPP09,"Chimney Rock, Catoctin Mountain Park, Maryland, United States",39.63,-77.43,382,452,Quartzite,Metamorphic,2.0,Top of tor,1081,10,0.252288,1807331,18.07,,,1.86,0.18
+Portenga (2011),EPP10,"Wolf Rocks, Catoctin Mountain Park, Maryland, United States",39.63,-77.44,439,442,Phyllite/Quartzite,Metamorphic,5.0,Top of ridgeline outcrop,1101,10,0.252288,949718,9.50,,,4.16,0.35
+Portenga (2011),EPP11,"Wolf Rocks, Catoctin Mountain Park, Maryland, United States",39.63,-77.44,403,442,Phyllite/Quartzite,Metamorphic,3.0,Top of ridgeline outcrop,1060,10,0.252288,687367,6.87,,,5.97,0.48
+Portenga (2011),EPP12,"Maryland Heights, Harpers Ferry National Historical Park, Maryland, United States",39.34,-77.72,446,376,Quartzite,Metamorphic,3.0,Top of flat-lying outcrop,1024,11,0.232701,362136,3.62,,,12.65,0.94
+Portenga (2011),EPP13,"Maryland Heights, Harpers Ferry National Historical Park, Maryland, United States",39.34,-77.72,433,376,Quartzite,Metamorphic,2.0,Top of flat-lying outcrop,1037,10,0.232701,994782,9.95,,,4.00,0.34
+Portenga (2011),EPP14,"Raven Rock, South Mountain State Park, Maryland, United States",39.68,-77.52,539,415,Quartzite,Metamorphic,4.0,Top of flat-lying outcrop,1130,9,0.232701,3227709,32.28,,,1.00,0.11
+Portenga (2011),EPP15,"Raven Rock, South Mountain State Park, Maryland, United States",39.68,-77.52,539,415,Quartzite,Metamorphic,4.0,Outcrop near cliff edge,1130,9,0.232701,1724318,17.24,,,2.25,0.21
+Portenga (2011),EPP16,"Raven Rock, South Mountain State Park, Maryland, United States",39.68,-77.53,539,415,Quartz vein,Metamorphic,4.0,Top of ridgeline outcrop,1130,9,0.232701,596762,5.97,,,7.77,0.62
+Portenga (2011),EPP17,"Buzzards Rock, George Washington National Forest, Virginia, United States",38.93,-78.31,246,549,Quartzite,Metamorphic,6.0,Top of ridgeline outcrop,999,10,0.242800,719083,7.19,,,4.79,0.39
+Portenga (2011),EPP18,"Buzzards Rock, George Washington National Forest, Virginia, United States",38.93,-78.31,456,550,Quartzite,Metamorphic,3.0,Top of ridgeline outcrop,974,11,0.242800,1890539,18.91,,,1.84,0.18
+Portenga (2011),EPP19,"Buzzards Rock, George Washington National Forest, Virginia, United States",38.94,-78.30,221,550,Quartzite,Metamorphic,6.0,Top of ridgeline outcrop,980,10,0.242800,537240,5.37,,,6.59,0.52
+Portenga (2011),EPP20,"Buzzards Rock, George Washington National Forest, Virginia, United States",38.95,-78.30,199,550,Sandstone,Sedimentary,2.0,"Small outcrop along path, very worn",956,11,0.242800,66938,0.67,,,66.10,4.81
+Portenga (2011),EPP21,"Kennedy Peak, George Washington National Forest, Virginia, United States",38.74,-78.49,435,468,Quartzite,Metamorphic,2.0,Outcrop on summit,1052,9,0.242800,843731,8.44,,,4.80,0.40
+Portenga (2011),EPP22,"Kennedy Peak, George Washington National Forest, Virginia, United States",38.74,-78.49,435,468,Quartzite,Metamorphic,3.0,Outcrop on summit,1052,9,0.242800,499925,5.00,,,8.66,0.66
+Portenga (2011),EPP23,"Duncan Knob, George Washington National Forest, Virginia, United States",38.70,-78.55,648,586,Quartzite,Metamorphic,7.0,Top of ridgeline outcrop,1077,9,0.242800,922879,9.23,,,4.95,0.41
+Portenga (2011),EPP24,"Duncan Knob, George Washington National Forest, Virginia, United States",38.70,-78.55,648,586,Quartzite,Metamorphic,6.0,Top of ridgeline outcrop,1077,9,0.242800,894780,8.95,,,5.17,0.43
+Portenga (2011),EPP26,"Cub Run, George Washington National Forest, Virginia, United States",38.48,-78.70,707,598,Sandstone,Sedimentary,3.0,Top of ridgeline outcrop,1098,9,0.226691,222770,2.23,,,25.52,1.83
+Portenga (2011),EPP27,"Cub Run, George Washington National Forest, Virginia, United States",38.48,-78.70,763,598,Sandstone,Sedimentary,5.0,Top of ridgeline outcrop,1112,9,0.226691,636487,6.36,,,8.34,0.66
+Portenga (2011),EPP28,"Sawmill Run Rd., Monongahela National Forest, West Virginia, United States",38.63,-79.56,929,685,Sandstone,Sedimentary,2.0,Outcrop sticking up out of spur ridge,1096,9,0.212027,129322,1.29,,,53.03,3.77
+Portenga (2011),EPP29,"Sawmill Run Rd., Monongahela National Forest, West Virginia, United States",38.63,-79.56,929,685,Sandstone,Sedimentary,2.0,Outcrop sticking up out of spur ridge,1096,9,0.212027,164689,1.65,,,41.18,2.97
+Portenga (2011),EPP30,"Sawmill Run Rd., Monongahela National Forest, West Virginia, United States",38.63,-79.56,929,685,Sandstone,Sedimentary,2.0,Outcrop sticking up out of spur ridge,1096,9,0.212027,109250,1.09,,,63.21,4.57
+Portenga (2011),EPP31,"Reddish Knob, George Washington National Forest, Virginia & West Virginia, United States",38.47,-79.24,1127,657,Sandstone,Sedimentary,2.0,Top of ridgeline tor,1235,7,0.226691,236794,2.37,,,32.00,2.37
+Portenga (2011),EPP32,"Reddish Knob, George Washington National Forest, Virginia & West Virginia, United States",38.47,-79.24,1127,657,Sandstone,Sedimentary,4.0,Top of ridgeline tor,1235,7,0.226691,189164,1.89,,,39.94,2.90
+Portenga (2011),EPP33,"Hone Quarry Ridge, George Washington National Forest, Virginia, United States",38.47,-79.19,846,682,Sandstone,Sedimentary,2.0,Spur ridge,1035,9,0.226691,263844,2.64,,,23.58,1.73
+Portenga (2011),EPP34,"Hone Quarry Ridge, George Washington National Forest, Virginia, United States",38.46,-79.19,846,717,Sandstone,Sedimentary,3.0,Spur ridge,1035,9,0.226691,195350,1.95,,,32.24,2.33
+Portenga (2011),EPP35,"Big Schloss Mountain, George Washington National Forest, Virginia & West Virginia, United",38.93,-78.68,653,643,Quartzite,Metamorphic,2.0,Top of ridgeline outcrop,1066,8,0.224334,700239,7.00,,,7.10,0.57
+Portenga (2011),EPP36,"Big Schloss Mountain, George Washington National Forest, Virginia & West Virginia, United",38.93,-78.68,813,643,Quartzite,Metamorphic,4.0,Top of ridgeline outcrop,1011,9,0.242800,619703,6.20,,,9.06,0.71
+Portenga (2011),EPP37,"Devil's Hole Mountain, George Washington National Forest, Virginia & West Virginia, United",38.91,-78.71,734,616,Sandstone,Sedimentary,2.0,Small outcrop on summit flats,1011,9,0.224334,338201,3.38,,,16.83,1.26
+Portenga (2011),EPP38,"Devil's Hole Mountain, George Washington National Forest, Virginia & West Virginia, United",38.91,-78.71,734,616,Sandstone,Sedimentary,4.0,Small outcrop on summit flats,1011,9,0.224334,393756,3.94,,,14.06,1.06
+Portenga (2011),EPP39,"Crannys Crow, Lost River State Park, West Virginia, United States",38.90,-78.91,751,434,Sandstone,Sedimentary,3.0,Outcrop near cliff edge,1077,8,0.224334,965199,9.65,,,5.30,0.44
+Portenga (2011),EPP40,"Crannys Crow, Lost River State Park, West Virginia, United States",38.90,-78.91,751,434,Sandstone,Sedimentary,5.0,Outcrop near cliff edge,1077,8,0.224334,743899,7.44,,,7.00,0.56
+Portenga (2011),EPP41,"Miller Rock, Lost River State Park, West Virginia, United States",38.92,-78.89,835,467,Sandstone,Sedimentary,8.0,Top of ridgeline outcrop,1116,8,0.224334,888805,8.89,,,5.97,0.49
+Portenga (2011),EPP42,"Miller Rock, Lost River State Park, West Virginia, United States",38.92,-78.89,835,467,Sandstone,Sedimentary,2.0,Top of ridgeline outcrop,1116,8,0.224334,776198,7.76,,,7.29,0.60
+Portenga (2011),EPP43,"Seneca Rocks, Monongahela National Forest, West Virginia, United States",38.84,-79.37,564,667,Sandstone,Sedimentary,3.0,"Upper side of ridgeline outcrop, ~1 meter below top of outcrop",1011,10,0.212027,93624,0.94,,,58.43,4.00
+Portenga (2011),EPP44,"Seneca Rocks, Monongahela National Forest, West Virginia, United States",38.84,-79.37,564,667,Sandstone,Sedimentary,4.0,"Upper side of ridgeline outcrop, ~1 meter below top of outcrop",1011,10,0.212027,183484,1.83,,,28.43,2.00
+Portenga (2011),EPP45,"Chimney Rocks, Monongahela National Forest, West Virginia, United States",38.97,-79.26,816,824,Sandstone,Sedimentary,3.0,Top of tor,1155,8,0.224334,253346,2.53,,,24.16,1.75
+Portenga (2011),EPP46,"Chimney Rocks, Monongahela National Forest, West Virginia, United States",38.97,-79.26,816,824,Sandstone,Sedimentary,4.0,Top of tor,1155,8,0.224334,377968,3.78,,,15.60,1.18
+Portenga (2011),EPP47,"Chimney Rocks, Monongahela National Forest, West Virginia, United States",38.96,-79.26,719,665,Sandstone,Sedimentary,1.0,Top of ridgeline outcrop near large cliff,1134,8,0.224334,509193,5.09,,,10.73,0.84
+Portenga (2011),EPP48,"Chimney Rocks, Monongahela National Forest, West Virginia, United States",38.96,-79.26,719,665,Sandstone,Sedimentary,1.0,Top of ridgeline outcrop near large cliff,1134,8,0.224334,887092,8.87,,,5.78,0.47
+Portenga (2011),EPS01,"Rim Trail, Tuscarora State Forest, Pennsylvania, United States",40.24,-77.64,552,435,Sandstone,Sedimentary,6.0,Spur ridge,1099,8,0.253313,230861,2.31,,,22.19,1.59
+Portenga (2011),EPS02,"Rim Trail, Tuscarora State Forest, Pennsylvania, United States",40.24,-77.64,552,435,Sandstone,Sedimentary,4.0,Spur ridge,1099,8,0.253313,410871,4.11,,,11.99,0.90
+Portenga (2011),EPS03,"Round Top Trail, Tuscarora State Forest, Pennsylvania, United States",40.26,-77.66,486,485,Sandstone,Sedimentary,3.0,Outcrop on summit flats,1047,9,0.253313,532807,5.33,,,8.60,0.67
+Portenga (2011),EPS04,"Round Top Trail, Tuscarora State Forest, Pennsylvania, United States",40.26,-77.66,565,485,Sandstone,Sedimentary,1.0,Outcrop on summit flats,1082,8,0.253313,473664,4.74,,,10.58,0.81
+Portenga (2011),EPS05,"Pine Ridge Trail, Tuscarora State Forest, Pennsylvania, United States",40.44,-77.68,518,449,Conglomerate,Sedimentary,1.0,Outcrop nested between small hills with no real obscuring relief,1055,8,0.252165,654878,6.55,,,7.12,0.57
+Portenga (2011),EPS06,"Pine Ridge Trail, Tuscarora State Forest, Pennsylvania, United States",40.44,-77.68,518,449,Conglomerate,Sedimentary,1.0,Outcrop nested between small hills with no real obscuring relief,1055,8,0.252165,692283,6.92,,,6.68,0.56
+Portenga (2011),EPS07,"Prayer Rock, Pennsylvania, United States",40.54,-77.76,462,430,Sandstone,Sedimentary,3.0,Top of ridgeline,1041,8,0.252165,427397,4.27,,,10.83,0.83
+Portenga (2011),EPS08,"Prayer Rock, Pennsylvania, United States",40.54,-77.76,462,430,Sandstone,Sedimentary,2.0,Top of ridgeline,1041,8,0.252165,570167,5.70,,,7.90,0.64
+Portenga (2011),EPS09,"Spring Creek, Rothrock State Forest, Pennsylvania, United States",40.76,-77.76,390,424,Sandstone,Sedimentary,7.0,Spur ridge,1024,8,0.252165,199788,2.00,,,23.10,1.62
+Portenga (2011),EPS10,"Spring Creek, Rothrock State Forest, Pennsylvania, United States",40.76,-77.76,390,424,Sandstone,Sedimentary,2.0,Spur ridge,1024,8,0.252165,323549,3.24,,,14.09,1.03
+Portenga (2011),EPS11,"Turtle Rocks, Moshannon State Forest, Pennsylvania, United States",40.92,-78.12,562,251,Quartz conglomerate,Sedimentary,2.0,Outcrop in flat woody area,1023,7,0.193638,2177021,21.77,,,1.79,0.17
+Portenga (2011),EPS12,"Turtle Rocks, Moshannon State Forest, Pennsylvania, United States",40.92,-78.12,562,251,Quartz conglomerate,Sedimentary,4.0,Outcrop in flat woody area,1023,7,0.193638,981990,9.82,,,4.57,0.38
+Portenga (2011),EPS13,"Panther Rocks, Moshannon State Forest, Pennsylvania, United States",41.14,-78.49,650,186,Quartz conglomerate,Sedimentary,2.0,Outcrop in flat woody area,1118,6,0.193638,2111813,21.12,,,2.03,0.19
+Portenga (2011),EPS14,"Panther Rocks, Moshannon State Forest, Pennsylvania, United States",41.14,-78.49,650,186,Quartz conglomerate,Sedimentary,2.0,Outcrop in flat woody area,1118,6,0.193638,2346996,23.47,,,1.78,0.17
+Portenga (2011),EPS15,"Panther Rocks, Moshannon State Forest, Pennsylvania, United States",41.14,-78.49,650,186,Quartz conglomerate,Sedimentary,1.0,Outcrop in flat woody area,1118,6,0.193638,2207321,22.07,,,1.94,0.19
+Portenga (2011),EPS16,"Hawk Rock, Duncannon, Pennsylvania, United States",40.37,-77.06,233,291,Sandstone,Sedimentary,2.0,Top of ridgeline,1066,10,0.249575,284989,2.85,,,14.32,1.04
+Portenga (2011),EPS17,"Hawk Rock, Duncannon, Pennsylvania, United States",40.37,-77.05,215,291,Sandstone,Sedimentary,7.0,Top of ridgeline,1060,10,0.249575,148005,1.48,,,28.13,1.92
+Portenga (2011),EPS18,"Hawk Rock, Duncannon, Pennsylvania, United States",40.38,-77.04,228,291,Sandstone,Sedimentary,3.0,Along ridgeline adjacent to large cliff,1048,10,0.249575,277083,2.77,,,14.62,1.06
+Portenga (2011),EPS19,"Michaux Oaks Rd., Michaux State Forest, Pennsylvania, United States",40.04,-77.35,429,402,Quartzite,Metamorphic,2.0,Outcrop nested between small hills with no real obscuring relief,1098,9,0.249350,807132,8.07,,,5.14,0.42
+Portenga (2011),EPS20,"Michaux Oaks Rd., Michaux State Forest, Pennsylvania, United States",40.04,-77.35,429,402,Quartzite,Metamorphic,4.0,Outcrop nested between small hills with no real obscuring relief,1098,9,0.249350,899523,9.00,,,4.46,0.38
+Portenga (2011),EPS21,"Pole Steeple, Michaux State Forest, Pennsylvania, United States",40.03,-77.27,238,263,Quartzite,Metamorphic,4.0,Top of ridgeline,1083,10,0.249350,296452,2.96,,,13.52,0.98
+Portenga (2011),EPS22,"Pole Steeple, Michaux State Forest, Pennsylvania, United States",40.03,-77.27,238,263,Quartzite,Metamorphic,5.0,Top of ridgeline,1083,10,0.249350,1362536,13.63,,,2.25,0.21
+Portenga (2011),EPS23,"Pole Steeple, Michaux State Forest, Pennsylvania, United States",40.03,-77.27,238,263,Quartzite,Metamorphic,5.0,Top of ridgeline,1083,10,0.249350,264200,2.64,,,15.27,1.10
+Portenga (2011),EPS24,"Rock Ridge, Rocks State Park, Maryland, United States",39.64,-76.41,114,138,Schist,Metamorphic,4.0,Top of ridgeline,1112,11,0.298508,950218,9.50,,,3.12,0.27
+Portenga (2011),EPS25,"Rock Ridge, Rocks State Park, Maryland, United States",39.64,-76.41,114,138,Schist,Metamorphic,2.0,Top of ridgeline,1112,11,0.298508,871716,8.72,,,3.52,0.30
+Portenga (2011),EPS26,"Rock Ridge, Rocks State Park, Maryland, United States",39.64,-76.41,114,138,Schist and quartz vein,Metamorphic,5.0,Top of ridgeline,1112,11,0.298508,297170,2.97,,,12.09,0.88
+Reuter (2005),JSQ122,"Water Rocks, Pennsylvania, United States",41.21,-77.83,90,310,sandstone,Sedimentary,3.5,,1064,7,0.399615,1255000,12.55,4.00,0.00,2.50,0.24
+Reuter (2005),JSQ163,"Water Rocks, Pennsylvania, United States",41.21,-77.83,689,310,sandstone,Sedimentary,3.0,,1064,7,0.399615,1034000,10.34,4.90,0.00,5.47,0.48
+Reuter (2005),JSQ164,"Water Rocks, Pennsylvania, United States",41.21,-77.83,687,310,sandstone,Sedimentary,2.5,,1064,7,0.399615,1244000,12.44,4.00,0.00,4.42,0.40
+Reuter (2005),JSQ162,"Split Rock at Wolf Run, Pennsylvania, United States",40.52,-76.75,412,380,sandstone,Sedimentary,1.0,,1125,8,0.252786,1558000,15.58,2.50,0.00,2.62,0.25
+Sullivan (2007),CSB-1,"Blue Ridge Escarpment, Southern Appalachian Mountains, United States",36.62,-80.76,896,491,Gneiss,Metamorphic,3.5,"Escarpment, moderately weathered",1190,10,0.428108,69000,0.69,56.80,7.80,105.87,9.39
+Sullivan (2007),CSB-2,"Blue Ridge Escarpment, Southern Appalachian Mountains, United States",35.43,-82.25,658,786,Gneiss,Metamorphic,3.5,Escarpment,1469,11,0.640559,2710000,27.10,1.70,0.20,1.48,0.16
+Sullivan (2007),CSB-3,"Blue Ridge Escarpment, Southern Appalachian Mountains, United States",35.62,-82.26,951,647,Metagraywacke & Mica schist,Metamorphic,3.5,Escarpment,1377,11,0.640559,334000,3.34,17.40,2.30,20.62,1.74
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,

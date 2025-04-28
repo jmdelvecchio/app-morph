@@ -1,0 +1,65 @@
+Sample name,Lithology,SUERC ID #2,Basin area(km2),Effective basin Elevation (m)3,Slope ?,10Be concentration(x105  atoms/gram)4,10Be model erosion rate Rate (m/My)5,drainage Direction,Sample type,Easting,Northing,Elevation
+SH-01 (0.25-0.85 mm),Granite,BE22557,39.49,717,16.8,3.48,18.0,East,fluvial,736324,4272684,283
+SH-01 (0.85-2 mm),Granite,BE22558,--,--,16.8,3.42,--,,fluvial,736324,4272684,283
+SH-01 (2-10 mm),Granite,BE22559,--,--,16.8,3.06,--,,fluvial,736324,4272684,283
+SH-01 (>10 mm),Granite,BE22560,--,--,16.8,2.29,--,,fluvial,736324,4272684,283
+SH-07,Granite,B2189,6.4,831,21,5.03,13.1,West,fluvial,725233,4273513,475
+SH-08,Granite,B2190,4.58,732,18,3.26,19.5,West,fluvial,727035,4279401,354
+SH-10,Granite,B2241,14.09,659,16.7,3.62,16.6,East,fluvial,736495,4282213,375
+SH-11,Granite,B2194,24.31,569,16.2,3.60,15.6,East,fluvial,739752,4281853,226
+SH-12,Granite,B2195,14.19,702,15.1,4.28,14.2,East,fluvial,738857,4277575,293
+SH-13,Granite,B2242,1.79,321,10.8,4.55,10.0,East,fluvial,737679,4269600,223
+SH-14,Granite,B2196,0.96,470,15.7,3.36,15.7,East,fluvial,737188,4267845,218
+SH-15,Granite,B2198,5.97,440,16.4,4.23,11.9,East,fluvial,736216,4267136,232
+SH-21,Granite,B2202,5.65,707,19.2,4.58,13.3,West,fluvial,728957,4280649,402
+SH-22,Granite,B2244,2.66,507,14.3,6.55,7.7,West,fluvial,724850,4276706,329
+SH-45,Granite,B2235,4.14,258,11.3,4.88,8.8,East,fluvial,738472,4267440,195
+SH-46,Granite,B2236,1.58,442,17,2.76,19.1,East,fluvial,739697,4280609,232
+SH-47,Granite,B2254,12.48,304,11,3.94,11.6,East,fluvial,742935,4281305,183
+SH-50,Granite,B2265,0.35,508,15,7.14,7.0,West,fluvial,742376,4300370,354
+SH-51,Granite,B2266,4.51,562,15.1,5.22,10.4,West,fluvial,739767,4297760,317
+SH-52,Granite,B2267,22.91,583,14.6,4.88,11.3,West,fluvial,740175,4299449,287
+SH-02 (0.25-0.85 mm),Metabasalt,BE22589,2.81,607,11.9,10.23,5.0,West,fluvial,730091,4282755,390
+SH-02 (0.85-2 mm),Metabasalt,BE22590,--,--,11.9,8.73,--,,fluvial,730091,4282755,390
+SH-02 (2-10 mm),Metabasalt,BE22591,--,--,11.9,7.90,--,,fluvial,730091,4282755,390
+SH-02 (>10 mm),Metabasalt,BE22592,--,--,11.9,7.89,--,,fluvial,730091,4282755,390
+SH-05,Metabasalt,B2188,1.52,819,8.2,15.13,3.8,West,fluvial,734721,4293571,762
+SH-09,Metabasalt,B2193,0.06,804,14.4,8.77,7.0,West,fluvial,732865,4286590,695
+SH-16,Metabasalt,B2199,13.8,890,13.7,3.33,21.3,East,fluvial,730811,4269239,360
+SH-18*,Metabasalt,B2200,2.83,605,11.9,10.99,4.6,West,fluvial,730088,4282767,384
+SH-19,Metabasalt,B2201,11.49,836,15.9,5.35,12.3,West,fluvial,718300,4261025,451
+SH-25,Metabasalt,B2205,25.22,714,17.3,7.29,7.9,East,fluvial,697272,4224629,341
+SH-26,Metabasalt,B2264,2.48,797,13.9,6.26,10.0,East,fluvial,708069,4241014,610
+SH-40,Metabasalt,B2231,3.37,815,15.1,8.24,7.5,East,fluvial,702060,4234803,512
+SH-03 (0.25-0.85 mm),Quartzite,BE21899,9.43,502,15.4,7.44,6.6,West,fluvial,704974,4248555,344
+SH-03 (0.85-2 mm),Quartzite,BE21900,--,--,15.4,5.84,--,,fluvial,704974,4248555,344
+SH-03 (2-10 mm),Quartzite,BE21901,--,--,15.4,5.06,--,,fluvial,704974,4248555,344
+SH-03 (>10 mm),Quartzite,BE22593,--,--,15.4,5.95,--,,fluvial,704974,4248555,344
+SH-20,Quartzite,B2243,1.61,569,16.8,8.36,6.1,West,fluvial,704275,4247989,341
+SH-29,Quartzite,B2207,0.01,584,14,12.63,3.8,West,fluvial,690397,4220154,469
+SH-30,Quartzite,B2211,0.8,778,15.3,9.34,6.3,West,fluvial,693633,4227895,604
+SH-32,Quartzite,B2213,1.05,472,10.8,10.86,4.1,West,fluvial,698743,4242670,378
+SH-34,Quartzite,B2224,0.4,616,17.9,3.91,14.7,West,fluvial,691885,4227255,488
+SH-35,Quartzite,B2225,0.04,555,16.6,9.37,5.3,West,fluvial,692083,4227608,524
+SH-36,Quartzite,B2226,0.19,645,19.9,6.14,9.1,West,fluvial,692204,4227789,536
+SH-41**,Quartzite,B2250,0.18,639,19.8,7.17,7.6,West,fluvial,692180,4227796,564
+SH-04 (0.25-0.85 mm),Siliciclastic,BE22525,12.71,656,21.3,4.04,14.6,West,fluvial,693189,4230180,427
+SH-04 (0.85-2 mm),Siliciclastic,BE22526,--,--,21.3,3.69,--,,fluvial,693189,4230180,427
+SH-04 (2-10 mm),Siliciclastic,BE22527,--,--,21.3,4.09,--,,fluvial,693189,4230180,427
+SH-04 (>10 mm),Siliciclastic,BE22528,--,--,21.3,5.58,--,,fluvial,693189,4230180,427
+SH-06,Siliciclastic,B2240,1.47,452,18,7.80,6.0,West,fluvial,727619,4284094,299
+SH-27,Siliciclastic,B2249,3.44,636,16.6,10.06,5.2,West,fluvial,692551,4219150,475
+SH-28,Siliciclastic,B2206,5.7,636,16.6,9.35,5.6,West,fluvial,692528,4219091,457
+SH-37,Siliciclastic,B2228,1.59,620,19.6,6.99,7.7,West,fluvial,697182,4236207,463
+SH-39,Siliciclastic,B2230,3.06,756,24.4,6.96,8.6,West,fluvial,694228,4232723,512
+SH-42,Siliciclastic,B2252,0.58,788,19.5,4.46,14.4,West,fluvial,694064,4225856,640
+SH-54,Siliciclastic,B2492,1.78,679,22.4,4.19,14.3,West,fluvial,699057,4240410,503
+SH-17,Multilithology,B2262,9.28,489,15,10.56,4.4,West,fluvial,728841,4295614,195
+SH-31,Multilithology,B2212,8.47,728,18.4,8.19,7.0,West,fluvial,692472,4225882,469
+SH-33,Multilithology,B2214,1.11,467,10.6,10.59,4.3,West,fluvial,698786,4242809,360
+SH-38,Multilithology,B2229,15.12,647,19.2,6.71,8.3,West,fluvial,695213,4236654,415
+SH-43,Multilithology,B2253,2.12,640,13.9,4.24,13.7,West,fluvial,711967,4248830,472
+SH-44,Multilithology,B2232,1.26,269,5.7,5.06,8.5,East,fluvial,722245,4246727,259
+SH-48,Multilithology,B2255,16.85,403,10.6,3.80,13.1,East,fluvial,751201,4302777,213
+SH-49,Multilithology,B2237,10.88,277,8,12.42,3.0,West,fluvial,744849,4312419,165
+SH-56,Multilithology,B2256,3305.62,634,8.7,8.14,6.6,West,fluvial,708939,4267556,256

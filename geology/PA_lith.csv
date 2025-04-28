@@ -1,0 +1,658 @@
+unit_link,lith_rank,lith1,lith2,lith3,lith4,lith5,low_lith,lith_form,lith_com
+PADck;16,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PACAwb;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAwb;15,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PACAwb;24,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PACAwb;24,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAwb;24,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PACAwb;24,Incidental,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PACAwl;24,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,Weverton--gray to purplish-gray quartzite 
+PACAwl;24,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,Weverton--gray to purplish-gray quartzose conglomerate containing rounded pebbles. Loudoun--conglomerate. 
+PACAwl;24,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,,Loudoun--sericitic slate 
+PACAwl;24,Minor,Sedimentary,Clastic,Sandstone,Arkose,,Arkose,,"Loudoun--purplishgray, crumbly, poorly sorted, arkosic sandstone "
+PACAz;24,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"interbanded and interlaminated limestone and dolomite, thin- to thick-bedded; stromatolitic limestone "
+PAPZo;0,Minor,Metamorphic,Gneiss,,,,Gneiss,,hornblende gneiss 
+PACAz;24,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"interbanded and interlaminated limestone and dolomite, thin- to thick-bedded "
+PACAz;24,Incidental,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"several thin, local quartz sandstone beds "
+PACAzc;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"medium-gray, finely crystalline dolomite; silty to sandy, containing numerous siliceous to argillaceous laminae. "
+PADbe;14,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,Buttermilk Falls Limestone--gray fossiliferous limestone and black chert 
+PADbe;14,Incidental,Sedimentary,Chemical,Chert,,,Chert,Bed,Buttermilk Falls Limestone--gray fossiliferous limestone and black chert 
+PADbe;14,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,Palmerton Sandstone--massive white siliceous sandstone 
+PADbe;14,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Calcareous,"Schoharie Formation--gray calcareous, argillaceous siltstone; Esopus Formation--gray silty shale and sandy siltstone. "
+PADbe;14,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,Esopus Formation--gray silty shale 
+PADbh;12,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,"Brallier--medium-gray, planar-bedded siltstone  "
+PADbh;12,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,Brallier--interbedded with light-olive shale; with sparse marine fauna and dark-gray shale. 
+PADbh;12,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,Bed,Harrell--black shale (Burket Member) 
+PADbr;8,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"includes, in descending order: Berea Sandstone and Cussewago Sandstone; marine fossils common "
+PADbr;8,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADbr;8,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"includes, in descending order: Bedford Shale and Riceville Shale; marine fossils common. "
+PADbv;8,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"greenish-yellow and gray sandstone; Venango not mapped separately because upper key bed (Woodcock Sandstone) is missing. Includes, in descending order: Berea Sandstone, Cussewago Sandstone, and Venango Formation equivalent; contains marine fossils. "
+PADbv;8,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADbv;8,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"becoming more shaly and more gray downward; Includes, in descending order: Bedford Shale, Riceville Shale, and Venango Formation equivalent; contains marine fossils. "
+PADf;12,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,substantial brownish-gray sandstone 
+PADbv;8,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,bottom of interval is bottom of Panama Conglomerate 
+PADcb;17,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcb;17,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADcb;17,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcbr;18,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,marine fossils. 
+PADcbr;18,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,marine fossils. 
+PADcbs;18,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcbs;18,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcbs;18,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADccf;17,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADccf;17,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADccf;17,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADccf;18,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADccf;18,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcd;17,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcd;17,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcd;17,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADcd;17,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADcd;18,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcd;18,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcd;18,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADcd;18,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,conglomerate occurs at base of some cycles. 
+PADch;8,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,"included in Conneaut Group and ""Chemung"" of earlier workers; marine fossils common; includes ""pink rock"" of drillers. "
+PADch;8,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADch;8,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADciv;17,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADciv;17,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADciv;17,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADciv;17,Incidental,Sedimentary,Clastic,Mixed-clastic,Conglomerate-sandstone,,Conglomerate-sandstone,Bed,Lower part of member has conglomeratic sandstones. 
+PADck;12,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADck;12,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADck;12,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADck;12,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADck;12,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADck;15,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADck;15,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADck;16,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADck;16,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADck;16,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADclr;18,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADclr;18,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADclr;18,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADclw;18,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADclw;18,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADclw;18,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADcp;18,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcp;18,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,some laterally persistent conglomerate beds in lower part 
+PADcpg;18,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcpg;18,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADcpg;18,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcpg;18,Major,Sedimentary,Clastic,,,,Clastic,Bed,containing intermittent red beds 
+PADcpp;18,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcpp;18,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADcpp;18,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcr;8,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"includes, in descending order: Corry Sandstone and Cussewago Sandstone; marine fossils common "
+PADcr;8,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"includes, in descending order: Bedford Shale and Riceville Shale; marine fossils common. "
+PADcr;8,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcsc;17,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcsc;17,Major,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADcsc;17,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADct;18,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,freshwater fossils 
+PADct;18,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,freshwater fossils 
+PADct;18,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,freshwater fossils 
+PADcw;18,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcw;18,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcw;18,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADcwt;18,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADcwt;18,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcwt;18,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADcwt;18,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADf;12,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADf;12,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADf;12,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PADg;8,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,"Argillaceous, ashen-gray, flaky shale and siltstone; included in Conneaut Group and ""Chemung"" of earlier workers; marine fossils rare. "
+PADg;8,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Argillaceous, ashen-gray, flaky shale and siltstone; included in Conneaut Group and ""Chemung"" of earlier workers; marine fossils rare. "
+PADh;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADh;0,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADh;0,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PADh;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADh;0,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,Bed, 
+PADh;0,Incidental,Sedimentary,Clastic,Mudstone,Claystone,Bentonite,Bentonite,Bed, 
+PADlh;15,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed,marine fossils throughout 
+PADlh;15,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,marine fossils throughout 
+PADlh;15,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,marine fossils throughout 
+PADlh;15,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,marine fossils throughout 
+PADm;0,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,Bed,black shale; sparse marine fauna and siderite concretions. 
+PAPAp;6,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"thin marine limestones present in Beaver, Lawrence, and Mercer Counties; "
+PAPAp;6,Incidental,Sedimentary,Coal,,,,Coal,Bed,minable coals present locally 
+PAPAp;7,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,Sharp Mountain--conglomerate and conglomeratic sandstone 
+PAPAp;7,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"fine- to coarse-grained sandstone, Schuylkill--sandstone and conglomeratic sandstone; Tumbling Run--conglomeratic sandstone and sandstone. "
+PAPAp;7,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAPAp;7,Minor,Sedimentary,Coal,Anthracite,,,Anthracite,Bed,minable anthracite coals 
+PAPAp;7,Minor,Sedimentary,Clastic,Mixed-clastic,Conglomerate-sandstone,,Conglomerate-sandstone,Bed,Sharp Mountain--conglomerate and conglomeratic sandstone; Schuylkill--sandstone and conglomeratic sandstone; Tumbling Run--conglomeratic sandstone and sandstone. 
+PApCAa;14,Major,Igneous,Plutonic,Anorthosite,,,Anorthosite,,"anorthosite - medium to coarse grained, light to dark bluish gray, predominantly plagioclase; local alteration minerals "
+PApCAfgh;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"felsic and intermediate gneiss - light, medium grained; includes rocks of probable sedimentary origin. "
+PApCAfgh;14,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,includes rocks of probable sedimentary origin. 
+PApCAfgp;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"felsic gneiss - light, medium grained; includes rocks of probable sedimentary origin. "
+PApCAfgp;14,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,includes rocks of probable sedimentary origin. 
+PApCAfm;14,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,,"marble - white, coarsely crystalline; disseminated graphite flakes. "
+PApCAgg;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"graphitic felsic gneiss - includes Pickering Gneiss and small areas of marble; dominantly quartz and feldspar with varying amounts of graphite and various metamorphic minerals; medium grained, light to dark gray and greenish gray; sedimentary origin. "
+PApCAgg;14,Minor,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,,small areas of marble 
+PAPZpb;0,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,quartz conglomerate having a matrix of sericite and chlorite (Cardiff). 
+PApCAgg;14,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,"graphitic felsic gneiss - includes Pickering Gneiss and small areas of marble; dominantly quartz and feldspar with varying amounts of graphite and various metamorphic minerals; medium grained, light to dark gray and greenish gray; sedimentary origin. "
+PApCAgga;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"banded mafic gneiss - dark, fine to medium grained; includes rocks of probable sedimentary origin; may be equivalent to ""pCAmgh."" "
+PApCAgga;14,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,," includes rocks of probable sedimentary origin; may be equivalent to ""pCAmgh."" "
+PApCAggd;14,Major,Metamorphic,Gneiss,Muscovite-gneiss,,,Muscovite-gneiss,,"felsic and intermediate gneiss - medium grained, light pink to greenish gray; largely quartz, feldspar, and mica; commonly gneissic, containing alteration minerals; interfingers with gabbroic gneiss "
+PApCAgn;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"felsic to mafic gneiss - light, medium grained; predominantly quartz and feldspar of igneous origin. "
+PApCAgqm;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"graphitic felsic gneiss - medium grained, medium to dark gray; locally gneissic, predominantly feldspar and quartz, plus dark accessories and various alteration minerals. "
+PApCAhg;14,Major,Metamorphic,Gneiss,Hornblende-gneiss,,,Hornblende-gneiss,,"hornblende gneiss - dark, medium grained; includes some rocks of probable sedimentary origin. "
+PApCAhg;14,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,includes some rocks of probable sedimentary origin. 
+PApCAmb;25,Major,Metamorphic,Metaigneous,Metavolcanic,Metabasalt,,Metabasalt,,"metabasalt - dark-gray, fine-grained intrusives; locally, mineralogy is altered and unit has greenish color. "
+PApCAmd;14,Major,Metamorphic,Metaigneous,Metaintrusive,Metadiabase,,Metadiabase,,"metadiabase - dark-gray, fine-grained intrusives; locally, mineralogy is altered and unit has greenish color. "
+PApCAmgh;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"mafic gneiss - dark, medium grained; includes rocks of probable sedimentary origin; may be equivalent to ""PZmgh"" in places. "
+PApCAmgh;14,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,"includes rocks of probable sedimentary origin; may be equivalent to ""PZmgh"" in places. "
+PApCAmgp;14,Major,Metamorphic,Gneiss,,,,Gneiss,,"mafic gneiss - dark, medium grained; includes rocks of probable sedimentary origin; may be equivalent to ""PZmgp"" in places. "
+PApCAmgp;14,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,"includes rocks of probable sedimentary origin; may be equivalent to ""PZmgp"" in places. "
+PApCAmr;25,Major,Metamorphic,Metaigneous,Metavolcanic,Metarhyolite,,Metarhyolite,,"metarhyolite - light gray, green, and purple; commonly schistose, containing quartz augen and veins "
+PApCAvs;25,Major,Metamorphic,Metaigneous,Greenstone,,,Greenstone,,"greenstone schist - fine to medium grained, light to medium green "
+PApCAvs;25,Minor,Metamorphic,Metaigneous,Metavolcanic,,,Metavolcanic,,includes probable metavolcanic rocks 
+PAPg;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,includes red beds 
+PAPg;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+PAPg;0,Minor,Sedimentary,Coal,,,,Coal,,"thin, impure coal "
+PAPPAw;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAPPAw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PAPPAw;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+PAPZo;0,Minor,Igneous,Plutonic,Granitic,,,Granitic,,granitized members 
+PAPPAw;0,Minor,Sedimentary,Coal,,,,Coal,,commercial coals present 
+PAPw;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAPw;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,includes red shale 
+PAPw;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+PAPZa;0,Major,Igneous,Plutonic,Anorthosite,,,Anorthosite,,"medium to coarse grained, light to dark bluish gray, predominantly plagioclase; local alteration minerals "
+PAPZc;0,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,,"marble - white to light bluish gray, finely to coarsely crystalline "
+PAPZgr;0,Major,Igneous,Plutonic,Granitic,Granite,,Granite,, 
+PAPZgr;0,Minor,Igneous,Plutonic,Granitic,Granodiorite,,Granodiorite,, 
+PAPZgr;0,Major,Metamorphic,Gneiss,,,,Gneiss,,granitic gneiss 
+PAPZgw;0,Major,Metamorphic,Schist,,,,Schist,,lithologically similar to oligoclase-mica schist of the Wissahickon Formation (PZw) 
+PAPZgw;0,Minor,Metamorphic,Amphibolite,,,,Amphibolite,,also includes lenticular amphibolite bodies having ocean-floor basalt chemistry 
+PAPZgw;0,Minor,Metamorphic,Gneiss,,,,Gneiss,,"some hornblende gneiss, augen gneiss (PZw) "
+PAPZm;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+PAPZm;0,Major,Metamorphic,Schist,Mica-schist,,,Mica-schist,,mica-chlorite schist 
+PAPZm;0,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,, 
+PAPZmg;0,Major,Metamorphic,Gneiss,,,,Gneiss,,hornblende gneiss 
+PAPZmg;0,Major,Metamorphic,Metaigneous,Metaintrusive,Metagabbro,,Metagabbro,,"metagabbro - ranges from fine- to medium-grained, altered gabbro  "
+PAPZmgh;0,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,includes rocks of probable sedimentary origin; may be equivalent to pCAmgh in places 
+PAPZmgp;0,Major,Metamorphic,Gneiss,,,,Gneiss,,"mafic gneiss - dark, medium grained; includes rocks of probable sedimentary origin; may be equivalent to pCAmgp in places. "
+PAPZmgp;0,Minor,Metamorphic,Metasedimentary,Paragneiss,,,Paragneiss,,includes rocks of probable sedimentary origin; may be equivalent to pCAmgp in places. 
+PAPZo;0,Major,Metamorphic,Schist,,,,Schist,,albite-chlorite schist 
+PAPZo;0,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+PAPZpb;0,Major,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,,bluish-black slate (Peach Bottom) 
+PAPZpc;0,Major,Metamorphic,Schist,,,,Schist,,chlorite-sericite schist 
+PAPZpc;0,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,interbedded quartzite 
+PAPZpg;0,Major,Igneous,Plutonic,Granitic,Leucocratic-granitic,Pegmatite,Pegmatite,,"coarse to medium grained, granitic; contacts range from sharp to narrowly gradational; some zoning in places "
+PASwm;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PAPZsc;0,Major,Metamorphic,Metaigneous,Metavolcanic,Metabasalt,,Metabasalt,,"metabasalt - altered basaltic flows, some amygdaloidal; green, schistose, containing hornblende, epidote, chlorite, and quartz "
+PAPZsq;0,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,includes white feldspathic quartzite 
+PAPZsq;0,Minor,Metamorphic,Gneiss,Muscovite-gneiss,,,Muscovite-gneiss,,gray mica gneiss 
+PAPZsq;0,Minor,Metamorphic,Schist,Mica-schist,,,Mica-schist,,mica schist 
+PAPZu;0,Major,Metamorphic,Metaigneous,Serpentinite,,,Serpentinite,, 
+PAPZu;0,Minor,Metamorphic,Metaigneous,Metaintrusive,Metaultramafic,Metaperidotite,Metaperidotite,,"ultramafic rocks - includes serpentine, steatite, and other products of alteration of peridotites and pyroxenites "
+PAPZu;0,Minor,Metamorphic,Metaigneous,Metaintrusive,Metaultramafic,Metapyroxenite,Metapyroxenite,,"ultramafic rocks - includes serpentine, steatite, and other products of alteration of peridotites and pyroxenites "
+PAPZw;0,Major,Metamorphic,Schist,Mica-schist,,,Mica-schist,,oligoclase-mica schist 
+PAPZw;0,Minor,Metamorphic,Gneiss,Hornblende-gneiss,,,Hornblende-gneiss,,"some hornblende gneiss, some augen gneiss "
+PAPZw;0,Minor,Igneous,Plutonic,Granitic,,,Granitic,,some quartz-rich and feldspar-rich members due to various degrees of granitization. 
+PAPZwk;0,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,,"marble; light gray, coarsely crystalline; contains graphite flakes in places "
+PAQs;0,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,Estuarine,"Fine-grained, unconsolidated sand deposited by lake currents. "
+PAQt;0,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,Alluvial,"Gray or pale-reddish-brown, very gravelly sand interstratified with crossbedded sand  "
+PAQt;0,Minor,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,Alluvial,"Gray or pale-reddish-brown, very gravelly sand interstratified with crossbedded sand  "
+PAQt;0,Major,Unconsolidated,Fine-detrital,Clay,,,Clay,Alluvial,clay-silt beds 
+PAQt;0,Minor,Unconsolidated,Fine-detrital,Silt,,,Silt,Alluvial,clay-silt beds 
+PASb;14,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PASb;14,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PASb;14,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PASb;19,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,red shale 
+PASb;19,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PASb;19,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,very fine to coarse-grained sandstone 
+PASb;19,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Calcareous, 
+PATRgc;1,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,Gray quartz conglomerate 
+PATRgc;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PADosn;19,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed, 
+PAMb;10,Minor,Sedimentary,Coal,,,,Coal,Bed, 
+PAOrr;20,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed, 
+PAMDpr;12,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,some conglomerate (Pocono); overlying conglomerate (Rockwell); shown in southwestern Bedford County only. 
+PAPAap;6,Minor,Sedimentary,Coal,,,,Coal,, 
+PAPAcc;6,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PATbm;0,Minor,Unconsolidated,Fine-detrital,Silt,,,Silt,Terrace, 
+PAwater;0,Major,Water,,,,,Water ,,
+PADosn;19,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAMsc;8,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAPAcg;6,Minor,Sedimentary,Coal,,,,Coal,, 
+PAPw;0,Minor,Sedimentary,Coal,,,,Coal,, 
+PAPZmgh;0,Major,Metamorphic,Gneiss,,,,Gneiss,,"mafic gneiss; dark, medium grained; includes rocks of probable sedimentary origin; may be equivalent to pCAmgh in places "
+PASs;14,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Light- to dark-gray, fine- to very coarse grained sandstone "
+PAPAl;7,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PAPg;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PAKp;0,Minor,Unconsolidated,Coarse-detrital,Sand,,,Sand,Bed, 
+PACAsg;24,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed, 
+PADck;15,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADcp;18,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADck;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PAOh;21,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PACAa;22,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+PACAa;22,Major,Metamorphic,Schist,,,,Schist,,quartz schist 
+PACAa;24,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+PACAah;22,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+PACAah;22,Minor,Metamorphic,Schist,,,,Schist,, 
+PACAah;22,Minor,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,,Harpers Formation (CAh) 
+PACAal;23,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"medium- to medium-dark-gray, thick-bedded dolomite "
+PACAal;23,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"medium- to medium-dark-gray, impure limestone "
+PACAal;23,Incidental,Sedimentary,Chemical,Chert,,,Chert,Bed,dark-gray chert stringers and nodules; laminated; oolitic and stromatolitic 
+PACAal;23,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Calcareous,some orange-brown-weathering calcareous siltstone at base 
+PACAbs;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PACAbs;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PACAbs;22,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,some thin sandy beds 
+PACAch;22,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,"light-gray, hard, massive, Skolithos-bearing quartzite "
+PACAch;22,Major,Metamorphic,Schist,,,,Schist,,quartz schist 
+PACAch;22,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,,"thin, interbedded dark slate at top "
+PACAch;22,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,conglomerate (Hellam Member) at base 
+PACAe;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,microcrystalline limestone 
+PACAe;22,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,subordinate dolomite containing abundant phyllitic layers 
+PACAe;22,Minor,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,Bed,subordinate dolomite containing abundant phyllitic layers 
+PACAe;22,Incidental,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,Bed, 
+PACAe;24,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Calcareous, 
+PACAe;24,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"silty limestone at top; medium-gray limestone and dolomite in middle; pure, dark limestone at base. "
+PACAe;24,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PACAg;15,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PACAg;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PACAg;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAg;15,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,Cgm 
+PACAgl;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"cyclic repetitions of sandstone and dolomite (""upper sandstone'' member); cyclic repetitions of sandstone and dolomite (''lower sandstone"" member) "
+PACAw;15,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,interbedded with thick-bedded crystalline dolomite 
+PACAw;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAgl;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"includes, in descending order: cyclic repetitions of sandstone and dolomite (""upper sandstone'' member); fossiliferous, laminated to massive limestone and dolomite (Ore Hill Member); cyclic repetitions of sandstone and dolomite (''lower sandstone"" member); and thick-bedded crystalline dolomite (Stacy Member). "
+PACAgl;15,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"fossiliferous, laminated to massive limestone and dolomite (Ore Hill Member) "
+PACAgm;15,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,chert having cryptozoon stromatolites 
+PADck;16,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAgm;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"gray dolomite containing siliceous ""oolites"" "
+PACAh;22,Major,Metamorphic,Schist,,,,Schist,, 
+PACAh;22,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+PACAh;22,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+PACAh;24,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,, 
+PACAh;24,Major,Metamorphic,Schist,,,,Schist,, 
+PACAh;24,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+PACAha;23,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,"typically light-gray, fine- to medium-grained quartzite "
+PACAha;23,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,feldspathic sandstone; color ranges from nearly white to dark gray; massive bedded; Skolithos present in upper part 
+PACAha;23,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,quartz-pebble conglomerate occurs at base 
+PACAhm;24,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+PACAk;22,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,base--dark-brown shale 
+PACAk;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"middle--gray and white spotted limestone; top--sandy limestone which weathers to a fine-grained, friable, porous, sandy mass. "
+PACAk;22,Minor,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,Bed,"middle--locally, marble having irregular partings "
+PACAk;22,Minor,Unconsolidated,Coarse-detrital,Sand,,,Sand,Bed,"middle--gray and white spotted limestone; top--sandy limestone which weathers to a fine-grained, friable, porous, sandy mass. "
+PACAl;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"light-gray, locally mottled, massive, pure, coarsely crystalline dolomite; siliceous in middle part. "
+PACAlv;23,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"medium- to dark-gray, crystalline dolomite, light-olive-gray in places, weathering to light gray and yellowish brown; massive bedded; oolitic; dolomitic shale interbeds "
+PACAlv;23,Incidental,Sedimentary,Chemical,Chert,,,Chert,Bed,"pink to gray, mottled chert and dark-gray chert "
+PACAlv;23,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,thin shale and dolomitic shale interbeds; upper part is very shaly. 
+PACAlv;23,Incidental,Unconsolidated,Coarse-detrital,Sand,,,Sand,Bed,scattered sand grains 
+PACAm;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"pink to white and gray, finely laminated limestone; numerous stromatolitic limestone beds. "
+PACAm;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,interbedded finely crystalline dolomite 
+PACAms;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PACAms;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PACAms;22,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PACAph;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"gray, thin-bedded, argillaceous limestone "
+PACAph;15,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PACAph;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAph;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAr;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"gray dolomite, in part oolitic "
+PACAr;22,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PACAr;22,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,dark-gray oolitic chert 
+PACAsb;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PACAsb;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PACAsb;22,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAsc;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"thick-bedded, medium- to coarsely crystalline dolomite, in part oolitic "
+PACAsc;22,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,laminated limestone 
+PACAsc;22,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PACAsg;24,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"pure, light-colored limestone, stromatolitic in part; abundant pinkish limestone "
+PACAt;24,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+PACAt;24,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PACAul;22,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"CAzc, CAl, and CAv  "
+PACAul;22,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,Kinzers Formation (CAk) 
+PACAul;22,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,Bed,Kinzers Formation (CAk) 
+PACAul;22,Minor,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,Bed,Kinzers Formation (CAk) and Vintage Formation (CAv) 
+PACAul;22,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,Bed,Antietam Formation (CAa) and Harpers Formation (CAh) 
+PACAul;22,"Indeterminate, major",Metamorphic,Schist,,,,Schist,Bed,Antietam Formation (CAa) and Harpers Formation (CAh) 
+PACAul;22,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,Bed,Harpers Formation (CAh) 
+PACAv;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"dark-gray, knotty, argillaceous dolomite "
+PACAv;22,Minor,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Marble,,impure light-gray marble at base locally 
+PACAw;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"gray, thin- to medium-bedded, fossiliferous, cyclic limestone bearing stromatolites "
+PACAwb;15,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADm;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"contains local limestone (""Purcell"") member. "
+PADm;0,Minor,Sedimentary,Clastic,Mudstone,Claystone,Bentonite,Bentonite,Bed,Tioga bentonite included at base in eastern Pennsylvania. 
+PADmh;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,marine fossils 
+PADmh;0,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,marine fossils 
+PADmh;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Includes the following members, in descending order: Tully-argillaceous limestone "
+PADmh;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Includes the following members, Montebello (sandstone) "
+PADne;8,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Medium-gray shale and some thin light-gray siltstone interbeds; included in Canadaway Formation of New York; included in ""Chemung"" of earlier workers; contains sparse fossil marine fauna. "
+PADne;8,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADon;19,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Calcareous,Medium-gray calcareous shale; marine fossils 
+PADon;19,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"medium-gray argillaceous limestone of Selinsgrove Member at top; called ""Needmore Formation"" west of 78ø longitude "
+PADon;19,Minor,Sedimentary,Clastic,Mudstone,Claystone,Bentonite,Bentonite,Bed,Tioga bentonite at top 
+PAOco;21,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADoo;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Claystone,Bentonite,Bentonite,Bed, 
+PADoo;19,"Indeterminate, major",Sedimentary,Chemical,Chert,,,Chert,Bed, 
+PADoo;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADoo;19,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADoo;19,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADoo;19,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PADor;19,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"Fine- to very coarse grained, light-gray sandstone (""Oriskany"" of earlier workers). "
+PADosn;19,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADosn;19,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,siliceous siltstone 
+PADrc;14,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,Ridgeley Formation--white siliceous sandstone 
+PADrc;14,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Calcareous,Shriver Chert--gray siltstone; Port Ewen Shale--darkgray calcareous siltstone 
+PADrc;14,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,Shriver Chert--gray shale; Port Ewen Shale--darkgray shale; New Scotland Formation--dark-gray fossiliferous shale 
+PADrc;14,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,Shriver Chert--dark-gray chert 
+PAKp;0,Major,Unconsolidated,Fine-detrital,Clay,,,Clay,,"Intensely colored, variegated, ferruginous clay  "
+PADrc;14,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Minisink Limestone--dark-gray clayey limestone; New Scotland Formation--dark-gray clayey limestone; Coeymans Formation--gray, clayey to sandy limestone. "
+PADs;12,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,Chiefly siltstone; marine fossils 
+PADs;12,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,some fine-grained sandstone 
+PADs;12,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADs;12,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PADSkc;19,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PADSkc;19,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PADSkc;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Clinton includes the following, in descending order: Keefer Formation--fossiliferous sandstone and hematitic, oolitic sandstone and shale; Rose Hill Formation--fossiliferous shale. "
+PADSkc;19,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Clinton includes the following, in descending order: Keefer Formation--fossiliferous sandstone and hematitic, oolitic sandstone and shale; "
+PADSkc;19,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADSkc;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PADSkc;19,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PADSkm;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,Tonoloway Formation--interbedded shale; Wills Creek Formation--interbedded shale; Bloomsburg Formation--grayish-red and greenish-gray shale; Mifflintown Formation--interbedded shale 
+PADSkm;19,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,Bed,Tonoloway Formation--limestone; Wills Creek Formation--limestone; Mifflintown Formation--interbedded shale and limestone. 
+PAMDr;12,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,"sporadic conglomerate beds, and diamictite "
+PADSkm;19,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,"Wills Creek Formation--interbedded shale, siltstone, limestone, and dolomite; Bloomsburg Formation--grayish-red and greenish-gray shale, siltstone, sandstone, and mudstone. "
+PADSkm;19,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"Wills Creek Formation--interbedded shale, siltstone, limestone, and dolomite "
+PADSkm;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Mudstone,Bed,"Bloomsburg Formation--grayish-red and greenish-gray shale, siltstone, sandstone, and mudstone; "
+PADSkm;19,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Bloomsburg Formation--grayish-red and greenish-gray shale, siltstone, sandstone, and mudstone "
+PADSkt;19,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Keyser Formation--medium-gray, crystalline to nodular, fossiliferous limestone; upper part laminated and mud cracked; not present east of Harrisburg; passes into lower Coeymans, Rondout, and Decker Formations in the east. Tonoloway Formation--medium-gray, laminated, mud-cracked limestone  "
+PADSkt;19,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,Tonoloway Formation--containing some medium-dark- or olive-gray shale interbeds 
+PAOcl;15,Major,Metamorphic,Metaigneous,Metavolcanic,,,Metavolcanic,,Ocn and Obl: metabentonite beds 
+PADSop;14,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Onondaga Formation--gray calcareous, sandy shale; Rondout Formation--gray interbedded limestone, dolomite, and shale; Bossardville Limestone--gray, mud-cracked shaly limestone; Poxono Island Formation--olive-gray, calcareous and dolomitic shale, siltstone, and sandstone. "
+PADSop;14,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Calcareous,"Ridgeley Formation--brown sandstone; Decker Formation--gray calcareous sandstone; Poxono Island Formation--olive-gray, calcareous and dolomitic shale, siltstone, and sandstone. "
+PADSop;14,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Rondout Formation--gray interbedded limestone; Bossardville Limestone--gray, mud-cracked shaly limestone "
+PADSop;14,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"Rondout Formation--gray interbedded limestone, dolomite, and shale; Poxono Island Formation--olive-gray, calcareous and dolomitic shale "
+PADSop;14,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,"Poxono Island Formation--olive-gray, calcareous and dolomitic shale, siltstone, and sandstone. "
+PADSop;14,Minor,Sedimentary,Clastic,,,,Clastic,Bed,"Decker Formation--gray calcareous sandstone, and Andreas Red Beds at top; "
+PADtr;16,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,"Olive-gray siltstone and shale, characterized by graded bedding; marine fossils "
+PADtr;16,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Olive-gray siltstone and shale, characterized by graded bedding; marine fossils "
+PADtr;16,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,some very fine grained sandstone in northeast 
+PADtr;16,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,Bed,black shale of Harrell Formation at base in Susquehanna Valley. 
+PADv;8,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PADv;8,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"some flaggy, gray sandstone; Panama Conglomerate and Woodcock Sandstone are, respectively, the lower and upper key beds defining the formation "
+PADv;8,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,some bluish-gray shale; includes some red shales where it interfingers to the east and south with the Catskill Formation; marine fossils present. 
+PADv;8,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,"Panama Conglomerate and Woodcock Sandstone are, respectively, the lower and upper key beds defining the formation "
+PAOh;21,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke,Bed, 
+PAJd;0,Major,Igneous,Volcanic,Mafic-volcanic,Basalt,,Basalt,Diabase,"Medium- to coarse-grained, quartz-normative tholeiite; composed of labradorite and various pyroxenes; occurs as dikes, sheets, and a few small flows "
+PAJs;0,Major,Sedimentary,Clastic,Sandstone,Arkose,,Arkose,, 
+PAJs;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"fossiliferous, gray to black shale and limestone "
+PAJs;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"fossiliferous, gray to black shale and limestone "
+PAJs;0,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,,ripple-cross-laminated siltstone 
+PAJs;0,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,boulder conglomerate. 
+PAJs;0,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,,"fossiliferous, gray to black shale and limestone "
+PAMb;10,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,equivalent to Pocono Formation of Ridge and Valley province. 
+PAMb;10,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,contains plant fossils 
+PAMb;10,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PAMbc;9,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PAMbc;9,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAMbc;9,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAMbc;9,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PAMc;8,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAMc;8,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Includes, in descending order: Meadville Shale and Orangeville Shale; marine fossils common. "
+PAMc;8,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"interbedded light-gray, flaggy sandstone; Sharpsville Sandstone "
+PAMDhm;13,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Greenish-gray and light-olive-gray, flaggy, fine-grained sandstone "
+PAMDhm;13,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAMDhm;13,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,a few red shale interbeds 
+PAMDpr;12,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Buff, medium-grained, crossbedded sandstone; overlying buff to olive-gray, fine- to medium-grained, crossbedded sandstone  "
+PAMDpr;12,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAMDr;12,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Buff, fine- to medium-grained, crossbedded, argillaceous sandstone "
+PAMDr;12,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,dark-gray shale; includes some carbonaceous shale 
+PAPAl;7,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Gray, fine- to coarse-grained sandstone "
+PAMDsk;14,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Light- to olive-gray, fine- to medium- grained, crossbedded sandstone "
+PAMDsk;14,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAMDsk;14,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed,"pebbly mudstone, and laminite; arranged in crude fining-upward cycles in some places "
+PAMDsk;14,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,locally has grayish-red shale near top 
+PAMDsk;14,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,local polymictic diamictite; conglomerate at base and in middle 
+PAMDso;8,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PAMDso;8,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAMDso;8,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+PAMDsr;8,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAMDsr;8,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+PAOps;20,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"light-colored, thick-bedded, finely laminated dolomite "
+PAOo;23,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,"thick-bedded, dark-gray chert at base "
+PAMDsr;8,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,,distinguished from Shenango-through-Oswayo (MDso) interval on basis of more common gray shale in Riceville as compared with olive-colored shale and sandstone of Oswayo; contains marine fossils. 
+PAMmc;7,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PAMmc;7,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+PAMmc;7,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,,"sandstone; along Allegheny Front from Blair County to Sullivan County, Loyalhanna Member is greenish-gray, calcareous, crossbedded sandstone. "
+PAMmc;7,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,, 
+PAMmc;7,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"Includes Loyalhanna Member (crossbedded, sandy limestone) at base in south-central and southwestern Pennsylvania; also includes Greenbrier Limestone Member, and Wymps Gap and Deer Valley Limestones, which are tongues of the Greenbrier. "
+PAMp;11,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Light-gray to buff or light-olive-gray, medium-grained, crossbedded sandstone  "
+PAMp;11,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAOco;21,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"gray phyllitic shale, maroon shale, and silty, siliceous shale "
+PAMp;11,Minor,Sedimentary,Clastic,Mixed-clastic,Conglomerate-sandstone,,Conglomerate-sandstone,Bed,"commonly conglomeratic at base and in middle; medial conglomerate, where present, is used to divide into Mount Carbon and Beckville Members; equivalent to Burgoon Sandstone of Allegheny Plateau. "
+PAMs;8,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PAMs;8,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,upper third of formation is more shaly; contains a few marine fossils. 
+PAMs;8,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAMsc;8,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"Shenango: Light-gray sandstone; Cuyahoga: interbedded light-gray, flaggy sandstone.; Sharpsville Sandstone, marine fossils common. "
+PAOe;23,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,edgewise conglomerate; fossil-fragment and oolitic lenses 
+PAMsc;8,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Shenango: some beds of medium-gray shale, upper third of formation is more shaly; contains a few marine fossils. Cuyahoga: dark-gray shale containing interbedded light-gray, flaggy sandstone; Includes, in descending order: Meadville Shale and Orangeville Shale; marine fossils common. "
+PAOa;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,medium-gray fossiliferous limestone. 
+PAOan;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"light-gray, massive, high-calcium limestone; mottled at base. "
+PAOb;20,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,Ops and Orr 
+PAOb;20,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAOb;20,Incidental,Sedimentary,Chemical,Chert,,,Chert,Bed,Orr 
+PAOb;23,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PAOb;23,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,Oe and Os 
+PAOb;23,Minor,Sedimentary,Chemical,Chert,,,Chert,Lense,Oo and Ori 
+PAOb;23,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,Oe and Os 
+PAOba;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,Obf: medium-bedded dolomite 
+PAOba;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,Oa: medium-gray fossiliferous limestone 
+PAOba;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,Obf 
+PAObe;15,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"gray to olive-gray and grayish-red, fine- to coarse-grained, crossbedded sandstone "
+PAObe;15,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAObe;15,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAObe;15,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,some conglomerate (Lost Run Member) 
+PAObf;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"medium-gray, brownish-weathering, medium-bedded dolomite  "
+PAObf;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PAObl;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAObl;15,Minor,Metamorphic,Metaigneous,Metavolcanic,,,Metavolcanic,Bed,"Benner Formation--includes chemically pure Valentine Member (Obv) at top, and, below, the less pure Valley View Member, which contains metabentonite beds. "
+PAObl;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PAObv;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,chemically pure limestone 
+PAOc;20,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"dark-gray, cobbly, argillaceous limestone "
+PAOc;20,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,abundant irregular shale partings 
+PAOc;20,Minor,Metamorphic,Metaigneous,Metavolcanic,,,Metavolcanic,Bed,some metabentonite beds present 
+PAOCAc;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Light-gray, thin-bedded, impure, contorted limestone; in Chester Valley, includes micaceous limestone in upper part, phyllite in middle, and alternating dolomite and limestone in lower part "
+PAOCAc;0,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,contorted limestone having shale partings 
+PAOCAc;0,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,conglomeratic at base 
+PAOCAc;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"in Chester Valley, includes micaceous limestone in upper part, phyllite in middle, and alternating dolomite and limestone in lower part. "
+PAPAl;7,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAPAl;7,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOCAc;0,Minor,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Phyllite,Bed,"in Chester Valley, includes micaceous limestone in upper part, phyllite in middle, and alternating dolomite and limestone in lower part. "
+PAOcl;15,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,,Ocn 
+PAOcl;15,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,, 
+PAOcl;15,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Dolostone,,Obl 
+PAOcl;15,Minor,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Calcarenite,,Ocn: Nealmont Formation--medium-gray fossiliferous limestone (calcarenite--Rodman Member) 
+PAOps;20,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAOr;15,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOr;15,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAOcn;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Coburn Formation--medium-gray to very dark gray, very fossiliferous limestone and shaly limestone; Salona Formation--very dark gray to black, nonfossiliferous shaly limestone; Nealmont Formation--medium-gray fossiliferous limestone (calcarenite--Rodman Member) overlying thin-bedded shaly limestone (calcilutite--Center Hall Member). "
+PAOcn;15,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"Coburn Formation--medium-gray to very dark gray shaly limestone; Salona Formation--very dark gray to black, nonfossiliferous shaly limestone and calcareous shale containing metabentonite beds; Nealmont Formation--thin-bedded shaly limestone (calcilutite--Center Hall Member). "
+PAOcn;15,Minor,Metamorphic,Metaigneous,Metavolcanic,,,Metavolcanic,,Salona Formation--containing metabentonite beds 
+PAOcn;15,Minor,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Calcarenite,Bed,Nealmont Formation--medium-gray fossiliferous limestone (calcarenite--Rodman Member). 
+PAOco;21,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"some interbedded argillaceous and quartzose sandstone; predominantly allochthonous, and probably closely related to Hamburg sequence, but includes some autochthonous elements.  "
+PAOe;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"very finely crystalline, light-gray limestone; coarsely crystalline limestone lenses present. "
+PAOe;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PAOe;23,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"thick-bedded, medium- to medium-dark-gray, finely crystalline limestone, weathering light gray "
+PAOe;23,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"yellow dolomitic laminae; interbedded medium-dark-gray, finely crystalline dolomite, weathering yellowish gray "
+PAOh;21,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOh;21,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,includes some wildflysch having Martinsburg matrix. 
+PAOha;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAOhg;21,Major,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke,, 
+PAOhjv;21,Major,Igneous,Volcanic,Mafic-volcanic,Andesite,,Andesite,Bed,andesite extrusives 
+PAOhjv;21,Major,Metamorphic,Metaigneous,Metaintrusive,Metadiabase,,Metadiabase,Bed,"dark-greenish-gray metadiabase. Metadiabase weathers medium gray to brown, forming rounded cobbles and boulders. "
+PAOhl;21,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAOhm;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Hershey--dark-gray to black, thin-bedded, argillaceous limestone; Myerstown--medium- to dark-gray, platy, medium-crystalline limestone; carbonaceous at base. "
+PAOhsg;21,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOhsg;21,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke,Bed, 
+PAOj;15,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"grayish-red, very fine to medium-grained, crossbedded sandstone "
+PAOj;15,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAOj;15,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOjb;15,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PAOjb;15,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAOjb;15,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOjb;15,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,"Bald Eagle Formation (Obe), Lost Run Member "
+PAOjk;23,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,dark-gray shaly limestone (cement rock) having slaty cleavage; basal medium- to thick-bedded limestone (cement limestone) increases in thickness eastward 
+PAOjk;23,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,dark-gray shaly limestone (cement rock) having slaty cleavage 
+PAOm;20,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"gray to dark-gray, buff-weathering shale "
+PAOm;22,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Calcareous,"dark-gray, slaty to phyllitic shale, calcareous at base "
+PAOm;23,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOm;23,Major,Metamorphic,Metasedimentary,Metaclastic,Slate,,Slate,Bed, 
+PAOmgs;20,Major,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke,Bed, 
+PAOmgs;23,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOmgs;23,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Graywacke,Bed, 
+PAOmgs;23,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,includes autochthonous sandstone and shale of Shochary Ridge 
+PAOml;20,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"dark-gray, thin-bedded, platy argillaceous limestone  "
+PAOml;20,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAOml;23,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,local limestone masses (wildflysch) 
+PAOn;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"medium- to dark-gray, thick-bedded dolomite . "
+PAOn;15,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,containing chert and siliceous oolites. 
+PAOns;15,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAOns;15,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,Nittany Formation (On) and Larke Formation 
+PAOns;15,Incidental,Sedimentary,Chemical,Chert,,,Chert,Bed,Nittany Formation (On) 
+PAOns;15,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,Stonehenge/Larke Formation (Osl): containing edgewise conglomerate; to the west. 
+PAOo;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"light- to dark-gray, very finely to medium-crystalline dolomite  "
+PAOo;22,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PAOo;22,Minor,Sedimentary,Chemical,Chert,,,Chert,,"interbedded nodular, dark-gray chert at base "
+PAOo;23,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"medium-dark-gray, finely crystalline dolomite, massive to finely laminated; weathers grayish yellow "
+PAOr;15,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,"fine-grained, thinbedded sandstone having graded bedding; upper sandstone is very fossiliferous "
+PAOr;15,Incidental,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,Calcareous,includes Antes Formation (black calcareous shale) at base along Nittany Arch. 
+PAOri;22,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"gray, very finely to coarsely crystalline, laminated dolomite "
+PAOri;22,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,"dark-gray chert in irregular beds, stringers, and nodules "
+PAOri;23,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"medium- to dark-gray, coarsely crystalline dolomite in lower part; medium- to medium-light-gray, finely crystalline dolomite in upper part "
+PAOri;23,Minor,Sedimentary,Chemical,Chert,,,Chert,Lense,"chert lenses, beds, and nodules "
+PAPAp;7,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PAOrr;20,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,mostly limestone; stromatolitic limestone in middle; pinkish marbleoid limestone and chert at base. 
+PAOrr;20,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PAOs;20,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"stromatolitic, fine-grained limestone; includes coarser grained and conglomeratic, siliceous, laminated Stoufferstown Formation at base "
+PAOs;22,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"gray, finely crystalline limestone  "
+PAOs;22,Incidental,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed,containing dark-gray silty laminations 
+PAOs;22,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,numerous edgewise conglomerate beds 
+PAOs;23,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"medium-light-gray to medium-gray, finely crystalline, thickbedded limestone, containing dark siliceous laminae, and fossil-fragment lenses "
+PAOs;23,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"medium-light-gray to medium-gray, finely crystalline, thickbedded limestone, containing dark siliceous laminae; dolomite beds increase in number eastward. "
+PAOs;23,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,edgewise conglomerate beds 
+PAOsl;15,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"medium-gray, medium-bedded to laminated, fossiliferous, oolitic limestone.  "
+PAOsl;15,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,oolitic limestone containing edgewise conglomerate; to the west. 
+PAOsl;15,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"Stonehenge is laterally equivalent to medium- to dark-gray, coarsely crystalline dolomite (Larke). "
+PAOsp;20,Major,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"very finely crystalline, ""birdseye"" limestone at top and base, granular fossiliferous limestone in middle "
+PAOsp;20,Minor,Sedimentary,Chemical,Chert,,,Chert,Bed,"granular fossiliferous limestone, black chert, and dolomite in middle "
+PAOsp;20,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"granular fossiliferous limestone, black chert, and dolomite in middle "
+PAPAa;6,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAPAa;6,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PAPAa;6,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,Vanport Limestone 
+PAPAa;6,Minor,Unconsolidated,Fine-detrital,Clay,,,Clay,,includes valuable clay deposits 
+PAPAa;6,Minor,Sedimentary,Coal,,,,Coal,,"commercially valuable Freeport, Kittanning, and Brookville-Clarion coals present; base is at bottom of Brookville-Clarion coal. "
+PAPAap;6,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAPAap;6,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PAPAap;6,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,includes lower Pottsville conglomerate 
+PAPAc;6,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Casselman & Glenshaw Formations 
+PAPAc;6,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,,Casselman Formation 
+PAPAc;6,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,,Casselman and Glenshaw Formations 
+PAPAc;6,Minor,Sedimentary,Clastic,,,,Clastic,,"Casselman and Glenshaw Formations, red beds; red beds are associated with landslides "
+PAPAc;6,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"Casselman: thin, impure limestone; Glenshaw: thin limestone, includes four marine limestone or shale horizons "
+PAPAc;6,Minor,Sedimentary,Coal,,,,Coal,,"Casselman: thin, nonpersistent coal; Glenshaw: coal "
+PAPAcc;6,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+PAPAcc;6,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAPAcc;6,Major,Sedimentary,Clastic,,,,Clastic,,"red beds, red beds are associated with landslides "
+PAPAcc;6,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"thin, impure limestone "
+PAPAcc;6,Incidental,Sedimentary,Coal,,,,Coal,,"and thin, nonpersistent coal "
+PAPAcg;6,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,includes four marine limestone or shale horizons 
+PAPAcg;6,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAPAcg;6,Minor,Sedimentary,Clastic,,,,Clastic,,red beds; red beds are involved in landslides 
+PAPAcg;6,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,includes four marine limestone or shale horizons 
+PAPAl;7,Minor,Sedimentary,Coal,Anthracite,,,Anthracite,Bed,numerous anthracite coals in repetitive sequences 
+PAPAm;6,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,, 
+PAPAm;6,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PAPAm;6,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+PAPAm;6,Major,Sedimentary,Coal,,,,Coal,,commercial coals present 
+PAPAp;6,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,Predominantly gray sandstone and conglomerate 
+PAPAp;6,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,"Predominantly gray sandstone and conglomerate, includes Olean and Sharon conglomerates of northwestern Pennsylvania "
+PAPAp;6,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PAPAp;6,Incidental,Sedimentary,Clastic,Mudstone,Claystone,,Claystone,Bed,commercially valuable high-alumina clays present locally. 
+PASbm;19,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,Mifflintown Formation--interbedded dark-gray shale and medium-gray fossiliferous limestone 
+PASbm;19,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Calcareous, 
+PASbm;19,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PASbm;19,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,Mifflintown Formation--interbedded dark-gray shale and medium-gray fossiliferous limestone; 
+PASbm;19,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PASc;19,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"light-olive-gray to brownish-gray, fossiliferous shale; Above Rose Hill is Keefer Formation--light- to dark-gray shale "
+PASc;19,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+PASc;19,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"includes dark-reddish-gray, very fine to coarse-grained, ferruginous sandstone; Above Rose Hill is Keefer Formation--light- to dark-gray, fossiliferous sandstone, and hematitic, oolitic sandstone. "
+PASdp;14,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Calcareous,Decker Formation--gray calcareous sandstone 
+PASdp;14,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Lense,Decker Formation--lenses of calcareous conglomerate 
+PASdp;14,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Lense,Decker Formation 
+PASdp;14,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Lense,Decker Formation; Poxono Island Formation--thin-bedded shale; red shale in lower part. 
+PATRhc;2,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,Cobble and pebble quartz conglomerate 
+PASdp;14,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Lense,"Decker Formation--lenses of limestone and dolomite (in Stroudsburg area, includes calcareous shale, limestone, and dolomite of Rondout Formation at top); Bossardville Limestone--gray argillaceous limestone and dolomitic limestone; Poxono Island Formation--thin-bedded dolomite, limestone. "
+PASdp;14,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,Lense,"Decker Formation--lenses of limestone and dolomite (in Stroudsburg area, includes calcareous shale, limestone, and dolomite of Rondout Formation at top); Bossardville Limestone--gray argillaceous limestone and dolomitic limestone; Poxono Island Formation--thin-bedded dolomite.  "
+PASs;14,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed, 
+PASs;14,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,thin shale interbeds 
+PASt;19,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,,light- to medium-gray quartzitic sandstone; includes (to the northwest) interbedded red and nonred sandstone (Castanea Member) at top 
+PASt;19,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,, 
+PASt;19,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+PASt;19,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+PASt;19,Incidental,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,locally conglomeratic in lower part 
+PASwc;19,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Calcareous, 
+PASwc;19,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PASwc;19,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PASwc;19,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PASwm;19,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Shale,Calcareous, 
+PASwm;19,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PASwm;19,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PASwm;19,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Limestone,Bed, 
+PASwm;19,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed, 
+PATbm;0,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,Terrace,reddish-brown gravelly sand 
+PATbm;0,Major,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,Terrace,reddish-brown gravelly sand 
+PATpb;0,Major,Unconsolidated,Coarse-detrital,Sand,,,Sand,Bed,"Dark-reddish-brown, cross-stratified, feldspathic quartz sand  "
+PATpb;0,Minor,Unconsolidated,Coarse-detrital,Gravel,,,Gravel,Bed,some thin beds of fine gravel 
+PATpb;0,Minor,Unconsolidated,Fine-detrital,Clay,,,Clay,Bed,rare layers of clay or silt. 
+PATpb;0,Minor,Unconsolidated,Fine-detrital,Silt,,,Silt,Bed,rare layers of clay or silt. 
+PATRb;3,Major,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed,"Reddish-brown mudstone, interbedded argillites near base.  "
+PATRb;3,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,Bed, 
+PATRb;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PATRb;3,Incidental,Metamorphic,Metasedimentary,Metaclastic,Argillite,,Argillite,Bed,"Reddish-brown mudstone, interbedded argillites near base.  "
+PATRfl;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Yellowish-gray to medium-gray, angular limestone and dolomite pebbles, cobbles, and fragments set in a red, very fine grained quartz matrix. "
+PATRfl;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,Bed,"Yellowish-gray to medium-gray, angular limestone and dolomite pebbles, cobbles, and fragments set in a red, very fine grained quartz matrix. "
+PATRfl;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,few shale-clast interbeds. 
+PATRfl;0,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,"Yellowish-gray to medium-gray, angular limestone and dolomite pebbles, cobbles, and fragments set in a red, very fine grained quartz  "
+PATRfq;0,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,"Well-rounded quartzite pebbles, cobbles, and rare boulders set in a reddish-brown, sandy matrix. "
+PATRfq;0,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,"Well-rounded quartzite pebbles, cobbles, and rare boulders set in a reddish-brown, sandy matrix. "
+PATRfq;0,Minor,Unconsolidated,Coarse-detrital,Sand,,,Sand,,"Well-rounded quartzite pebbles, cobbles, and rare boulders set in a reddish-brown, sandy matrix. "
+PATRg;1,Major,Sedimentary,Clastic,Mixed-clastic,Siltstone-mudstone,,Siltstone-mudstone,Bed,"Reddish-brown to maroon, silty mudstone  "
+PATRg;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PATRg;1,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PATRg;1,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,several thin beds of impure limestone 
+PATRgc;1,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,,red siltstone 
+PATRgc;1,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,,red mudstone 
+PATRgh;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Red, green, and gray shale and argillite "
+PATRgh;1,Minor,Sedimentary,Clastic,Sandstone,Arkose,,Arkose,Bed,minor thin beds of gray arkosic sandstone 
+PATRgh;1,Minor,Sedimentary,Clastic,Conglomerate,,,Conglomerate,Bed,some quartz conglomerate and limestone conglomerate. 
+PATRgh;1,Incidental,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,some quartz conglomerate and limestone conglomerate. 
+PATRgh;1,Minor,Metamorphic,Metasedimentary,Metaclastic,Argillite,,Argillite,Bed,"Red, green, and gray shale and argillite "
+PATRh;2,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"Gray and pale red, fine- to coarse-grained quartzose sandstone, siltstone, and mudstone. "
+PATRh;2,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,,"Gray and pale red, fine- to coarse-grained quartzose sandstone, siltstone, and mudstone. "
+PATRh;2,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,,"Gray and pale red, fine- to coarse-grained quartzose sandstone, siltstone, and mudstone. "
+PATRhc;2,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed,interbedded with red sandstone. 
+PATRl;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed,"Dark-gray to black, thick-bedded argillite containing a few zones of thin-bedded black shale, locally has thin layers of impure limestone and calcareous shale. "
+PATRl;3,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,Bed,"Dark-gray to black, thick-bedded argillite containing a few zones of thin-bedded black shale, locally has thin layers of impure limestone and calcareous shale. "
+PATRl;3,Incidental,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,Bed,"Dark-gray to black, thick-bedded argillite  "
+PATRl;3,Major,Metamorphic,Metasedimentary,Metaclastic,Argillite,,Argillite,Bed,"Dark-gray to black, thick-bedded argillite containing a few zones of thin-bedded black shale, locally has thin layers of impure limestone and calcareous shale. "
+PATRn;4,Major,Sedimentary,Clastic,Sandstone,Arkose,,Arkose,Bed,"Light-gray to buff, commonly arkosic sandstone and fine-grained sandstone "
+PATRn;4,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,Bed, 
+PATRn;4,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,Bed, 
+PATRn;4,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,Bed, 
+PATRnc;4,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,"Quartz or quartzite pebbles, cobbles, and rare boulders set in a red, sandy, ferruginous matrix; some silica cement; some feldspar clasts "
+PATRnc;4,Minor,Unconsolidated,Coarse-detrital,Sand,,,Sand,,"Quartz or quartzite pebbles, cobbles, and rare boulders set in a red, sandy, ferruginous matrix; some silica cement; some feldspar clasts "
+PATRnc;4,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Quartzite,,"Quartz or quartzite pebbles, cobbles, and rare boulders set in a red, sandy, ferruginous matrix; some silica cement; some feldspar clasts "
+PATRs;5,Major,Sedimentary,Clastic,Sandstone,Arkose,,Arkose,, 
+PATRs;5,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,,includes reddish-brown to grayish-purple sandstone 
+PATRs;5,Minor,Sedimentary,Clastic,Siltstone,,,Siltstone,, 
+PATRs;5,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,, 
+PATRsc;5,Major,Sedimentary,Clastic,Conglomerate,,,Conglomerate,,"Quartz cobbles set in a poorly sorted, sandy matrix "
+PATRsc;5,Minor,Unconsolidated,Coarse-detrital,Sand,,,Sand,,sandy matrix 
+PATRsc;5,Minor,Sedimentary,Clastic,Mixed-clastic,Conglomerate-sandstone,,Conglomerate-sandstone ,,
