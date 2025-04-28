@@ -14,8 +14,8 @@ The directory  `/output_data` has the reduced "results" that can be parsed furth
 ## Notebooks
 I like notebooks.
 - `data_compilation.ipynb` does a few things: (1) finds all the occurrences of the Tuscarora Sandstone/Quartzite, (2) compiles all of Paul Bierman's labs' data on the Mid-Atlantic, (3) basically does a bunch of split-apply-combine data analysis and visualizations of already-published data, plus (4) creates AOIs for ridgeline erosion rates to query 3DEP point clouds to build DEMs for LSDTT. 
-- 'lsdtt_results_reduction.ipynb` ingests the output of `lsdtt-dask-delayed.py` so that it can be plotted up nicely later...
-- 'lsdtt_results_plots.ipynb` takes the reduced data outputs from the big ol algorithm and combines it with the (paleo)climate maps and other data for interpretation
+- `lsdtt_results_reduction.ipynb` ingests the output of `lsdtt-dask-delayed.py` so that it can be plotted up nicely later...
+- `lsdtt_results_plots.ipynb` takes the reduced data outputs from the big ol algorithm and combines it with the (paleo)climate maps and other data for interpretation
 - `map_figures.ipynb` just makes the nice maps. 
 
 ## Python scripts
